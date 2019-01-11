@@ -13,6 +13,7 @@
 **Thumbnail:** <br> 
 <div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>  <br>
   <br>
+
 **Name:** Crack-semantic-segmentation by CNN <br>
 **Publication category:** SCI <br>
 **Publication Name:** computer <br>
