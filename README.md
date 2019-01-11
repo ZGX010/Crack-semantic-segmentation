@@ -20,8 +20,9 @@
 **Contribution:** Find a new CNNnet <br>
 **Difficulty:**  <br>
 **Result:** on the dataset that cityspaces have 0.4mIoU    <br>
-https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/基于卷积神经网络的桥梁裂缝检测与识别.pdf
-  <br>
+**Link**
+**Thumbnail:** <br> 
+<div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>  <br>
 
 ---
 ##  Updata Time:2019_01_12
