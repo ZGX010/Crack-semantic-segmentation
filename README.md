@@ -9,7 +9,7 @@
 **Contribution:** proposed a new algorithm of small scale fractal dimension <br>
 **Difficulty:**  <br>
 **Result:** 有效地提取裂缝形态和特征值，并在准确率和召回率上有着优良的表现，可以满足裂缝图像分割的高精度要求   <br>
-**Link**  <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/A%20Crack%20Image%20Segmentation%20Method%20Based%20on%20Small%20Scale%20Fractal%20Dimension.pdf <br>
 **Thumbnail:** <br> 
 <div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>  <br>
 
