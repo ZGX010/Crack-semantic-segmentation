@@ -42,7 +42,7 @@ particles on surface. <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Journal of Transport Information and Safety <br>
 **Issuing Time:** 2014_4_20 <br>
-**Contribution:** ：<br>
+**Contribution:** <br>
 **Difficulty:**  <br>
 **Result:**    <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/高速公路路面裂缝识别算法研究.pdf 
