@@ -45,7 +45,8 @@ particles on surface. <br>
 **Contribution:** ：<br>
 **Difficulty:**  <br>
 **Result:**    <br>
-**Link**https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/高速公路路面裂缝识别算法研究.pdf <br> 
+**Link**https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/高速公路路面裂缝识别算法研究.pdf 
+<br> 
 ---
 ##  Updata Time:2019_01_13
 **Name:** Crack-semantic-segmentation by CNN <br>
