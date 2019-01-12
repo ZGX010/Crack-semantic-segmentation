@@ -44,8 +44,8 @@ particles on surface. <br>
 **Issuing Time:** 2014_4_20 <br>
 **Contribution:** ：<br>
 **Difficulty:**  <br>
-**Result:** 实验结果显示分类准确率为９４％，线状裂缝长度误差均值为７．２％，宽度误差均值为１１．３％，非线状裂缝的面积误差均值为９．６％，表明这一方法有效、可靠。    <br>
-**Link**
+**Result:**    <br>
+**Link**https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/高速公路路面裂缝识别算法研究.pdf <br> 
 ---
 ##  Updata Time:2019_01_13
 **Name:** Crack-semantic-segmentation by CNN <br>
@@ -56,6 +56,6 @@ particles on surface. <br>
 **Difficulty:**  <br>
 **Result:** on the dataset that cityspaces have 0.4mIoU    <br>
   <br>
-**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/高速公路路面裂缝识别算法研究.pdf <br>
+**Link** 
 **Thumbnail:** <br> 
 <div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>  <br>
