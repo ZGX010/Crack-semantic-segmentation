@@ -104,11 +104,12 @@ particles on surface. <br>
 **Publication category:** ieee <br>
 **Publication Name:** 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops <br>
 **Issuing Time:** 2017 <br>
-**Contribution:** 提出用于语义分割的FC-DenseNet103模型<br>
-**Difficulty:**<br>
+**Contribution:** 提出用于语义分割的FC-DenseNet 103模型 <br>
+**Difficulty:** <br>
 **Result:**<br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/fully%20convolutional%20DenseNets%20for%20semantic%20segmentation.pdf
   <br>
+
 ---
 ##  Updata Time:2019_01_14
 **Name:** Crack-semantic-segmentation by CNN <br>
