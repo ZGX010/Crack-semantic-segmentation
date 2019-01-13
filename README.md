@@ -67,7 +67,7 @@ particles on surface. <br>
 **Contribution:** 提出了一种基于卷积神经网络特征和改进超像素匹配的图像语义分割算法 <br>
 **Difficulty:**  <br>
 **Result:** 在SIFTflow和KITTI数据库上的实验结果表明本文算法在每像素和平均每类语义分割精度均达到最优  <br>
- **Link** 
+ **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/基于卷积神经网络特征和改进超像素匹配的图像语义分割.pdf
  <br>
  
 **Name:** SegNet: a deep convolutional encoder-decoder architecture for scene segmentation <br>
@@ -77,7 +77,7 @@ particles on surface. <br>
 **Contribution:** segnet <br>
 **Difficulty:**  <br>
 **Result:**     <br>
- **Link** 
+ **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/a%20deep%20convolutional%20encoder-decoder%20architecture%20for%20scene.pdf
  <br>
  
 **Name:** Fully convolutional networks for semantic segmentation <br>
@@ -87,7 +87,7 @@ particles on surface. <br>
 **Contribution:** Find a new CNNnet <br>
 **Difficulty:**  <br>
 **Result:**    <br>
-  **Link** 
+  **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/Fully%20convolutional%20networks%20for%20semantic%20segmentation.pdf
 <br>
 
 **Name:** DeepLab: semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected CRFs <br>
@@ -97,7 +97,7 @@ particles on surface. <br>
 **Contribution:** Find a new CNNnet <br>
 **Difficulty:**  <br>
 **Result:**     <br>
-**Link** 
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/semantic%20image%20segmentation%20with%20deep%20convolutional%20nets%2C%20atrous%20convolution%2C%20and%20fully%20connected%20CRFs.pdf
   <br>
   
 **Name:** The one hundred layers tiramisu: fully convolutional DenseNets for semantic segmentation <br>
@@ -107,7 +107,7 @@ particles on surface. <br>
 **Contribution:** 提出用于语义分割的FC-DenseNet103模型 <br>
 **Difficulty:**  <br>
 **Result:**  <br>
-**Link** 
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/fully%20convolutional%20DenseNets%20for%20semantic%20segmentation.pdf
   <br>
 ---
 ##  Updata Time:2019_01_14
