@@ -61,3 +61,75 @@ particles on surface. <br>
 **Link** 
 **Thumbnail:** <br> 
 <div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>  <br>
+
+**Name:** Crack-semantic-segmentation by CNN <br>
+**Publication category:** SCI <br>
+**Publication Name:** computer <br>
+**Issuing Time:** 2012_2_3 <br>
+**Contribution:** Find a new CNNnet <br>
+**Difficulty:**  <br>
+**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
+  <br>
+**Link** 
+
+**Name:** Crack-semantic-segmentation by CNN <br>
+**Publication category:** SCI <br>
+**Publication Name:** computer <br>
+**Issuing Time:** 2012_2_3 <br>
+**Contribution:** Find a new CNNnet <br>
+**Difficulty:**  <br>
+**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
+  <br>
+**Link** 
+
+**Name:** Crack-semantic-segmentation by CNN <br>
+**Publication category:** SCI <br>
+**Publication Name:** computer <br>
+**Issuing Time:** 2012_2_3 <br>
+**Contribution:** Find a new CNNnet <br>
+**Difficulty:**  <br>
+**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
+  <br>
+**Link** 
+
+**Name:** Crack-semantic-segmentation by CNN <br>
+**Publication category:** SCI <br>
+**Publication Name:** computer <br>
+**Issuing Time:** 2012_2_3 <br>
+**Contribution:** Find a new CNNnet <br>
+**Difficulty:**  <br>
+**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
+  <br>
+**Link** 
+
+**Name:** Crack-semantic-segmentation by CNN <br>
+**Publication category:** SCI <br>
+**Publication Name:** computer <br>
+**Issuing Time:** 2012_2_3 <br>
+**Contribution:** Find a new CNNnet <br>
+**Difficulty:**  <br>
+**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
+  <br>
+**Link** 
+
+**Name:** Crack-semantic-segmentation by CNN <br>
+**Publication category:** SCI <br>
+**Publication Name:** computer <br>
+**Issuing Time:** 2012_2_3 <br>
+**Contribution:** Find a new CNNnet <br>
+**Difficulty:**  <br>
+**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
+  <br>
+**Link** 
+
+---
+##  Updata Time:2019_01_14
+**Name:** Crack-semantic-segmentation by CNN <br>
+**Publication category:** SCI <br>
+**Publication Name:** computer <br>
+**Issuing Time:** 2012_2_3 <br>
+**Contribution:** Find a new CNNnet <br>
+**Difficulty:**  <br>
+**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
+  <br>
+**Link** 
