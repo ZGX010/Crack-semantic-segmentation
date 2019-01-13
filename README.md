@@ -50,78 +50,65 @@ particles on surface. <br>
 
 ---
 ##  Updata Time:2019_01_13
-**Name:** Crack-semantic-segmentation by CNN <br>
-**Publication category:** SCI <br>
-**Publication Name:** computer <br>
-**Issuing Time:** 2012_2_3 <br>
+**Name:** Densely connected convolutional networks<br>
+**Publication category:** ieee <br>
+**Publication Name:** IEEE Transactions on Pattern Analysis & Machine Intelligence <br>
+**Issuing Time:** 2017 <br>
+**Contribution:** 提出密集卷积网络Dense Convolutional Network <br>
+**Difficulty:**  <br>
+**Result:** <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/Densely%20connected%20convolutional%20networks.pdf
+  <br>
+  
+**Name:** Image semantic segmentation based on convolutional neural network feature and improved superpixel matching <br>
+**Publication category:** cscd <br>
+**Publication Name:** Laser & Optoelectronics Progress <br>
+**Issuing Time:** 2018 <br>
+**Contribution:** 提出了一种基于卷积神经网络特征和改进超像素匹配的图像语义分割算法 <br>
+**Difficulty:**  <br>
+**Result:** 在SIFTflow和KITTI数据库上的实验结果表明本文算法在每像素和平均每类语义分割精度均达到最优  <br>
+ **Link** 
+ <br>
+ 
+**Name:** SegNet: a deep convolutional encoder-decoder architecture for scene segmentation <br>
+**Publication category:** IEEE <br>
+**Publication Name:** IEEE Transactions on Pattern Analysis & Machine Intelligence <br>
+**Issuing Time:** 2015 <br>
+**Contribution:** segnet <br>
+**Difficulty:**  <br>
+**Result:**     <br>
+ **Link** 
+ <br>
+ 
+**Name:** Fully convolutional networks for semantic segmentation <br>
+**Publication category:** ieee <br>
+**Publication Name:** IEEE Transactions on Pattern Analysis & Machine Intelligence <br>
+**Issuing Time:** 2014 <br>
 **Contribution:** Find a new CNNnet <br>
 **Difficulty:**  <br>
-**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
-  <br>
-**Link** 
-**Thumbnail:** <br> 
-<div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>  <br>
+**Result:**    <br>
+  **Link** 
+<br>
 
-**Name:** Crack-semantic-segmentation by CNN <br>
-**Publication category:** SCI <br>
-**Publication Name:** computer <br>
-**Issuing Time:** 2012_2_3 <br>
+**Name:** DeepLab: semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected CRFs <br>
+**Publication category:** ieee <br>
+**Publication Name:**  IEEE Transactions on Pattern Analysis & Machine Intelligence <br>
+**Issuing Time:** 2018 <br>
 **Contribution:** Find a new CNNnet <br>
 **Difficulty:**  <br>
-**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
-  <br>
+**Result:**     <br>
 **Link** 
-
-**Name:** Crack-semantic-segmentation by CNN <br>
-**Publication category:** SCI <br>
-**Publication Name:** computer <br>
-**Issuing Time:** 2012_2_3 <br>
-**Contribution:** Find a new CNNnet <br>
+  <br>
+  
+**Name:** The one hundred layers tiramisu: fully convolutional DenseNets for semantic segmentation <br>
+**Publication category:** ieee <br>
+**Publication Name:** 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops <br>
+**Issuing Time:** 2017 <br>
+**Contribution:** 提出用于语义分割的FC-DenseNet103模型 <br>
 **Difficulty:**  <br>
-**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
-  <br>
+**Result:**  <br>
 **Link** 
-
-**Name:** Crack-semantic-segmentation by CNN <br>
-**Publication category:** SCI <br>
-**Publication Name:** computer <br>
-**Issuing Time:** 2012_2_3 <br>
-**Contribution:** Find a new CNNnet <br>
-**Difficulty:**  <br>
-**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
   <br>
-**Link** 
-
-**Name:** Crack-semantic-segmentation by CNN <br>
-**Publication category:** SCI <br>
-**Publication Name:** computer <br>
-**Issuing Time:** 2012_2_3 <br>
-**Contribution:** Find a new CNNnet <br>
-**Difficulty:**  <br>
-**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
-  <br>
-**Link** 
-
-**Name:** Crack-semantic-segmentation by CNN <br>
-**Publication category:** SCI <br>
-**Publication Name:** computer <br>
-**Issuing Time:** 2012_2_3 <br>
-**Contribution:** Find a new CNNnet <br>
-**Difficulty:**  <br>
-**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
-  <br>
-**Link** 
-
-**Name:** Crack-semantic-segmentation by CNN <br>
-**Publication category:** SCI <br>
-**Publication Name:** computer <br>
-**Issuing Time:** 2012_2_3 <br>
-**Contribution:** Find a new CNNnet <br>
-**Difficulty:**  <br>
-**Result:** on the dataset that cityspaces have 0.4mIoU    <br>
-  <br>
-**Link** 
-
 ---
 ##  Updata Time:2019_01_14
 **Name:** Crack-semantic-segmentation by CNN <br>
