@@ -10,6 +10,8 @@
 **Difficulty:**  <br>
 **Result:** 有效地提取裂缝形态和特征值，并在准确率和召回率上有着优良的表现，可以满足裂缝图像分割的高精度要求   <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/A%20Crack%20Image%20Segmentation%20Method%20Based%20on%20Small%20Scale%20Fractal%20Dimension.pdf  <br>
+<br>
+
 **Name:** An Improved Otsu Method for Image Segmentation of Cracks <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Chinese Journal of Underground Space and Engineering <br>
@@ -28,6 +30,7 @@
 particles on surface. <br>
 **Result:** The segmentation results are stable and have strong anti-noise capacity， improve the accuracy and integrity of crack segmentation efficaciously.  <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/基于霍夫变换的OSTU改进算法在路面裂缝检测中的研究.pdf <br>
+<br>
 
 **Name:** Morphology and maximum entropy image segmentation based urban pavement cracks detection <br>
 **Publication category:** 核心 <br>
@@ -37,6 +40,7 @@ particles on surface. <br>
 **Difficulty:** 裂缝图像具有噪声强、光照不均匀、形式多样等特点，大多数算法仍然存在缺少通用性、计算复杂程度较高等缺点. <br>
 **Result:** The experimental results show that the synthetic method obtains a better detection result, rapidly and accurately detecting the edge of the crack while effectively suppressing the noise.    <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/形态学和最大熵图像分割的城市路面裂缝检测.pdf <br>
+<br>
 
 **Name:** Highway surface crack image identifying algorithm <br>
 **Publication category:** CSCD <br>
@@ -57,8 +61,8 @@ particles on surface. <br>
 **Contribution:** 提出密集卷积网络Dense Convolutional Network <br>
 **Difficulty:**  <br>
 **Result:** <br>
-**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/Densely%20connected%20convolutional%20networks.pdf
-  <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/Densely%20connected%20convolutional%20networks.pdf<br>
+<br>
   
 **Name:** Image semantic segmentation based on convolutional neural network feature and improved superpixel matching <br>
 **Publication category:** cscd <br>
@@ -67,7 +71,7 @@ particles on surface. <br>
 **Contribution:** 提出了一种基于卷积神经网络特征和改进超像素匹配的图像语义分割算法 <br>
 **Difficulty:**  <br>
 **Result:** 在SIFTflow和KITTI数据库上的实验结果表明本文算法在每像素和平均每类语义分割精度均达到最优  <br>
- **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/基于卷积神经网络特征和改进超像素匹配的图像语义分割.pdf
+ **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/基于卷积神经网络特征和改进超像素匹配的图像语义分割.pdf<br>
  <br>
  
 **Name:** SegNet: a deep convolutional encoder-decoder architecture for scene segmentation <br>
@@ -77,7 +81,7 @@ particles on surface. <br>
 **Contribution:** segnet <br>
 **Difficulty:**  <br>
 **Result:**     <br>
- **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/a%20deep%20convolutional%20encoder-decoder%20architecture%20for%20scene.pdf
+ **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/a%20deep%20convolutional%20encoder-decoder%20architecture%20for%20scene.pdf<br>
  <br>
  
 **Name:** Fully convolutional networks for semantic segmentation <br>
@@ -87,7 +91,7 @@ particles on surface. <br>
 **Contribution:** Find a new CNNnet <br>
 **Difficulty:**  <br>
 **Result:**    <br>
-  **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/Fully%20convolutional%20networks%20for%20semantic%20segmentation.pdf
+  **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/Fully%20convolutional%20networks%20for%20semantic%20segmentation.pdf<br>
 <br>
 
 **Name:** DeepLab: semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected CRFs <br>
@@ -97,7 +101,7 @@ particles on surface. <br>
 **Contribution:** Find a new CNNnet <br>
 **Difficulty:**  <br>
 **Result:**     <br>
-**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/semantic%20image%20segmentation%20with%20deep%20convolutional%20nets%2C%20atrous%20convolution%2C%20and%20fully%20connected%20CRFs.pdf
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/semantic%20image%20segmentation%20with%20deep%20convolutional%20nets%2C%20atrous%20convolution%2C%20and%20fully%20connected%20CRFs.pdf<br>
   <br>
   
 **Name:** The one hundred layers tiramisu: fully convolutional DenseNets for semantic segmentation <br>
@@ -107,7 +111,7 @@ particles on surface. <br>
 **Contribution:** 提出用于语义分割的FC-DenseNet 103模型 <br>
 **Difficulty:** <br>
 **Result:**<br>
-**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/fully%20convolutional%20DenseNets%20for%20semantic%20segmentation.pdf
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/fully%20convolutional%20DenseNets%20for%20semantic%20segmentation.pdf<br>
   <br>
 
 ---
