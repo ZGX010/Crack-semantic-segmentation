@@ -8,7 +8,7 @@
 **Contribution:** a deep-learning based method for crack detection is proposed <br>
 **Difficulty:** the intensity inhomogeneity of cracks and complexity of the background <br>
 **Result:** 与现有方法提取的特征相比，所提出的深度学习框架所学习的深层特征提供了卓越的裂缝检测性能   <br>
-**Link** 
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/Road%20crack%20detection%20using%20deep%20convolutional%20neural%20network.pdf
 <br>
 
 **Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
@@ -18,7 +18,7 @@
 **Contribution:** Using Convolutional Neural Networks <br>
 **Difficulty:** 照明和阴影变化可能对IPT的广泛采用带来挑战 <br>
 **Result:** 所提出的方法在没有用于提取特征的IPT的共轭的情况下工作。设计的CNN在256×256像素分辨率的40K图像上进行训练，因此记录精度约为98％。经过训练的CNN与滑动窗口技术相结合，可扫描任何大于256×256像素分辨率的图像。所提出的方法的稳健性和适应性在55个5,888×3,584像素分辨率的图像上进行测试，这些图像取自不同的结构    <br>
-**Link** 
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/Deep%20learning-based%20crack%20damage%20detection%20using%20convolutional%20neural%20networks.pdf
 <br>
 
 **Name:** Crack detection using image processing <br>
@@ -28,7 +28,7 @@
 **Contribution:** 统计了50篇不同文献的方法并进行分析 <br>
 **Difficulty:** 手动方法完全取决于专家的知识和经验，它在定量分析中缺乏客观性 <br>
 **Result:** 基于图像处理技术，从目标，准确度，错误级别和图像数据集提供分析    <br>
-**Link** 
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/Crack%20detection%20using%20image%20processing.pdf
 <br>
 
 **Name:** FCM分割和形态学的沥青路面图像裂缝提取 <br>
@@ -38,7 +38,7 @@
 **Contribution:** ，提出了一种基于FCM图像分割和形态学的沥青路面图像裂缝提取方法 <br>
 **Difficulty:** 由于路面破损图像具有噪声强、光照不均匀、形式多样等特点，现有自动检测系统仍然普遍存在识别率低、分类难等缺点 <br>
 **Result:** ，该综合方法获得了较好的检测结果，能有效地提取弱对比度的裂缝和细小裂缝    <br>
-**Link** 
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/FCM分割和形态学的沥青路面图像裂缝提取.pdf
   <br>
   
 **Name:** 形态学和最大熵图像分割的城市路面裂缝检测 <br>
@@ -48,7 +48,7 @@
 **Contribution:** ，提出利用形态学和最大熵图像分割的城市路面裂缝检测方法 <br>
 **Difficulty:** 大多数算法仍然存在缺少通用性、计算复杂程度较高等缺点. <br>
 **Result:** 该方法能够在抑制噪声干扰的同时，实现快速、准确地检测路面裂缝边缘，并准确完成裂缝分类    <br>
-**Link** 
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/形态学和最大熵图像分割的城市路面裂缝检测.pdf
   <br>
   
 **Name:** 基于小波变换图像分割技术的电成像测井资料裂缝、孔洞面孔率提取方法 <br>
@@ -58,7 +58,7 @@
 **Contribution:** <br>
 **Difficulty:**  <br>
 **Result:** 应用小波变换模极大值图像分割方法进行图像分割能得到较为清晰的裂缝、溶蚀孔洞子图像，分割结果具有合理性    <br>
-**Link** 
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/基于小波变换图像分割技术的电成像测井资料裂缝、孔洞面孔率提取方法.pdf
   <br>
 
 **Name:** NB-CNN deep learning-based crack detection using convolutional neural network and naïve bayes data fusion  <br>
@@ -68,7 +68,7 @@
 **Contribution:**  proposed a new deep learning framework called NB-CNN  <br>
 **Difficulty:**  检测这些裂缝是一项具有挑战性的任务，因为它们很小，并且表面上存在噪声模式  <br>
 **Result:** The proposed NB-CNN achieves 98.3% hit rate against 0.1 FPPF that is much higher than the 82.1% hit rate of LBP-SVM with the same FPPF. The capability of the proposed NB-CNN is a significant achievement toward autonomous inspection of nuclear power plant internal components  <br>
-**Link**  
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/NB-CNN%20deep%20learning-based%20crack%20detection%20using%20convolutional%20neural%20network%20and%20naïve%20bayes%20data%20fusion.pdf 
   <br>
 ---
 
