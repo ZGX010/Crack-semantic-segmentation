@@ -61,15 +61,13 @@
 **Link** 
   <br>
 
-**Name:**  NB-CNN deep learning-based crack detection using convolutional neural network and naïve bayes data fusion <br>
+**Name:** NB-CNN deep learning-based crack detection using convolutional neural network and naïve bayes data fusion  <br>
 **Publication category:**  IEEE <br>
-**Publication Name:**  IEEE Transactions on Industrial Electronics <br>
+**Publication Name:**  IEEE Transactions on Industrial Electronics  <br>
 **Issuing Time:**  2018 <br>
-**Contribution:**  proposed a new deep learning framework called NB-CNN <br>
-**Difficulty:**  检测这些裂缝是一项具有挑战性的任务，因为它们很小，并且表面上存在噪声模式。 <br>
-**Result:** The proposed NB-CNN achieves 98.3% hit rate against 0.1 FPPF that is
-much higher than the 82.1% hit rate of LBP-SVM with the same FPPF. The capability of the proposed NB-CNN is a significant
-achievement toward autonomous inspection of nuclear power plant internal components <br>
+**Contribution:**  proposed a new deep learning framework called NB-CNN  <br>
+**Difficulty:**  检测这些裂缝是一项具有挑战性的任务，因为它们很小，并且表面上存在噪声模式  <br>
+**Result:** The proposed NB-CNN achieves 98.3% hit rate against 0.1 FPPF that is much higher than the 82.1% hit rate of LBP-SVM with the same FPPF. The capability of the proposed NB-CNN is a significant achievement toward autonomous inspection of nuclear power plant internal components  <br>
 **Link**  
   <br>
 ---
