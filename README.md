@@ -183,6 +183,18 @@ particles on surface. <br>
 <br> 
 
 ---
+##  Updata Time:2019_01_11
+**Name:** 边缘检测算子及其在裂缝图像中的应用 <br>
+**Publication category:** 核心 <br>
+**Publication Name:** 混凝土 Concrete <br>
+**Issuing Time:** 2010 <br>
+**Contribution:** 介绍了几种经典算子的原理，设计了相关试验来提取裂缝图像，并使用Matlab 对裂缝图像进行边缘检测，分析这几种经典算子的优劣 <br>
+**Difficulty:** 找出适合进行裂缝图像边缘检测的最佳算子，以确保提取的裂缝参数的准确性，提高裂缝的判别精度 <br>
+**Result:** 高斯拉普拉斯（Laplacian of Gaussian）边缘检测算子是相对比较有效的裂缝图像边缘检测算子   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/边缘检测算子及其在裂缝图像中的应用.pdf
+<br>
+
+---
 ##  Updata Time:2019_01_10
 **Name:** 边缘检测算子及其在裂缝图像中的应用 <br>
 **Publication category:** 核心 <br>
