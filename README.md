@@ -266,3 +266,35 @@ particles on surface. <br>
 **Result:** 基于深度学习的图像语义分割技术虽然与传统方法相比，取得了很好的分割效果，但是对数据标注的要求过高：不仅需要海量图像数据，而且这些图像还需提供精确到像素级别的标记信息   <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/8/语义分割.pdf
 <br>
+
+---
+##  Updata Time:2019_01_07
+**Name:** 复杂背景下基于图像处理的桥梁裂缝检测算法 <br>
+**Publication category:** CSCD <br>
+**Publication Name:** 激光与光电子学进展 Laser & Optoelectronics Progress <br>
+**Issuing Time:** 2018_10_20 <br>
+**Contribution:** 提出了一种基于图像处理且适用于复杂背景的桥梁裂缝检测算法 <br>
+**Difficulty:** 传统的桥梁裂缝检测算法通常假设裂缝图像的背景简单且无任何障碍物，但是，在采集过程中会经常遇到复杂的道路场景，导致使用现有的桥梁裂缝检测算法不能准确提取裂缝 <br>
+**Result:** 实验结果表明：数据集扩充有效缓解了由于数据不充足引起的欠拟合现象；与现有的语义分割模型相比，本文提出的桥梁裂缝图像分割模型参数量减少、训练时间缩短，但是检测效果提高；与现有桥梁裂缝检测算法相比，本文提出的算法在复杂背景下有更理想的检测效果。   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/7/复杂背景下基于图像处理的桥梁裂缝检测算法.pdf
+<br>
+
+**Name:** 基于多特征检验的三维沥青路面裂缝检测 <br>
+**Publication category:** EI <br>
+**Publication Name:** Journal of Southwest Jiaotong University <br>
+**Issuing Time:** 2019_01_04 <br>
+**Contribution:** 提出了一种基于裂缝截面多特征检验的裂缝检测算法 <br>
+**Difficulty:** 由裂缝对比度低、路面纹理复杂多变等因素引起的沥青路面三维图像的裂缝检测精度低的问题; 由于裂缝对比度低、背景不均匀、裂缝形态多变及路面纹理复杂等因素的影响，裂缝的精确检测仍面临巨大挑战。<br>
+**Result:** 研究结果表明：提出的算法能达到89.19%的准确率、93.69%的召回率及91.06%的F 值，优于另外两种典型三维图像裂缝检测方法   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/7/基于多特征检验的三维沥青路面裂缝检测.pdf
+<br>
+
+**Name:** 基于深度学习的桥梁裂缝检测算法研究 <br>
+**Publication category:** none <br>
+**Publication Name:** ACTA AUTOMATICA SINICA自动化学报 <br>
+**Issuing Time:** 2018_10_07 <br>
+**Contribution:** 提出了一种基于深度学习的桥梁裂缝检测算法 <br>
+**Difficulty:** 传统的图像处理算法不能很好的对桥梁裂缝进行检测, 而经典的深度学习模型直接用于桥梁裂缝的检测, 效果不甚理想 <br>
+**Result:** 本文提出的桥梁裂缝检测算法和其他主流的裂缝检测算法相比, 具有更好的识别效果和更强的泛化能力. 数据集和文件：(https://github.com/maweifei/Bridge Crack Image Data) <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/7/基于深度学习的桥梁裂缝检测算法研究.pdf
+<br>
