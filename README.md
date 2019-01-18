@@ -210,8 +210,7 @@ particles on surface. <br>
 **Publication Name:** Journal of Building Structures <br>
 **Issuing Time:** 2018_9  <br>
 **Contribution:** 提出一种将深度卷积神经网络与传统图像处理相结合的裂缝自动提取方法<br>
-**Difficulty:** 基于深度卷积神经网络的裂缝识别模型表现突出，但依旧有许多局限性:
-1) 训练深度卷积神经网络需要大量标签样本，而现阶段并没有相应的裂缝标签图像数据库，裂缝标签样本数据匮乏; 2) 无法对图像上的裂缝目标进行自动提取 <br>
+**Difficulty:** 基于深度卷积神经网络的裂缝识别模型表现突出，但依旧有许多局限性:1) 训练深度卷积神经网络需要大量标签样本，而现阶段并没有相应的裂缝标签图像数据库，裂缝标签样本数据匮乏; 2) 无法对图像上的裂缝目标进行自动提取 <br>
 **Result:** 经过验证测试，识别正确率达到98%以上   <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/9/基于计算机视觉技术的结构表面裂缝检测方法研究.pdf
 <br>
@@ -228,3 +227,42 @@ particles on surface. <br>
 
 ---
 ##  Updata Time:2019_01_08
+**Name:** 基于生成式对抗网络的细小桥梁裂缝分割方法 <br>
+**Publication category:** CSCD <br>
+**Publication Name:** Laser & Optoelectronics Progress <br>
+**Issuing Time:** 2018_12_25 <br>
+**Contribution:** 提出一种基于生成式对抗网络的细小桥梁裂缝分割方法 <br>
+**Difficulty:** 裂缝具有分布杂乱无规则、粗细不均等特性，检测准确率往往不高。小目标检测受图像本身分辨率低和噪声的干扰，使用传统的检测方法处理，得到的检测结果通常也不理想 <br>
+**Result:** 实验结果表明，该方法更容易识别出细小桥梁裂缝并进行准确的分割，与传统的分割方法相比，该方法的分割召回率较之前增加了6%，平均IU 增加了10%   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/8/生成式对抗网络的细小桥梁裂缝分割方法.pdf
+<br>
+
+**Name:** 基于机器视觉的桩护壁裂缝检测方法 <br>
+**Publication category:** CSCD <br>
+**Publication Name:** Computer Engineering and Applications <br>
+**Issuing Time:** 2018_11_14 <br>
+**Contribution:** 提出一种基于机器视觉的桩护壁裂缝检测方法 <br>
+**Difficulty:** 针对桩护壁表面图像纹理复杂、裂缝对比度低，图像拍摄角度及距离不固定导致绝对阈值无法适用等问题 <br>
+**Result:** 实验结果表明，该方法能够较好地检测和标识桩护壁裂缝区域，并且对传统建筑表面的裂缝检测同样适用   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/8/基于机器视觉的桩护壁裂缝检测方法.pdf
+<br>
+
+**Name:** 一种新的路面裂缝自动检测算法 <br>
+**Publication category:** CSCD <br>
+**Publication Name:** Journal of System Simulation <br>
+**Issuing Time:** 2017_09 <br>
+**Contribution:** 提出了一种裂缝自动检测算法 <br>
+**Difficulty:** 实际路面图像因噪声成分复杂、覆盖面广，给检测裂缝造成难度；经过观察大量的裂缝图像特征发现，路面裂缝图像具有灰度值低、稀疏性、裂缝区域的连通性等特性 <br>
+**Result:** 实验结果表明，该方法在路面裂缝检测效率上具有更大的优势，而且对于不同类型的裂缝图像都具有鲁棒性   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/8/一种新的路面裂缝自动检测算法.pdf
+<br>
+
+**Name:** 图像语义分割问题研究综述 <br>
+**Publication category:** none <br>
+**Publication Name:** Software Guide <br>
+**Issuing Time:** 2018_8 <br>
+**Contribution:** 介绍深度学习应用于计算机视觉技术之前图像处理中语义分割传统算法，并探讨语义分割问题中基于不同神经网络结构模型的深度学习算法及性能 <br>
+**Difficulty:** <br>
+**Result:** 基于深度学习的图像语义分割技术虽然与传统方法相比，取得了很好的分割效果，但是对数据标注的要求过高：不仅需要海量图像数据，而且这些图像还需提供精确到像素级别的标记信息   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/8/语义分割.pdf
+<br>
