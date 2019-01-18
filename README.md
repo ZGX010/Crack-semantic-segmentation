@@ -2,6 +2,25 @@
 
 ---
 ##  Updata Time:2019_01_18
+**Name:** A Deep Convolutional Neural Network for Semantic Pixel-Wise Segmentation of Road and Pavement Surface Cracks <br>
+**Publication category:** IEEE <br>
+**Publication Name:** 2018 26th European Signal Processing Conference (EUSIPCO) <br>
+**Issuing Time:** 2018_12_03 <br>
+**Contribution:** 本文提出了一种利用卷积神经网络即U-Net进行道路和路面裂缝语义分割的算法。我们提出了一个深度完全卷积神经网络，对道路和路面图像上的表面裂缝进行像素分类。该算法在公开的CrackForest上进行了训练，验证和测试[15]，[16]数据集由118个路面和路面表面裂缝图像组成，用手持摄像机拍摄。为了确保公平的性能评估，在评估CrackForest算法时使用的度量标准也用于此工作 <br>
+**Difficulty:** 道路和路面状况恶化是一个直接影响当今世界大多数问题的问题。表面裂缝的复杂结构和纹理相似性，以及噪声和图像照明变化使得自动检测成为具有挑战性的任务。 <br>
+**Result:** 6种裂缝检测算法相比较的所提算法的结果。这些算法包括基线Canny边缘检测方法以及以下被认为是道路裂缝分析技术水平的方法：CrackTree，CrackIT，FFA和两种变体使用KNN和SVM 的CrackForest算法。所提出的方法在三个度量中的两个（Precision和F1-Score）上优于所有其他方法，并且在第三个度量（Recall）上实现了第二好的结果。该算法在精度度量上的表现优于下一个最佳技术方法（CrackForest）10％。   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/18/A%20Deep%20Convolutional%20Neural%20Network%20for%20Semantic%20Pixel-wise%20segmentation%20of%20road%20and%20pavement%20surface%20cracks.pdf 
+<br>
+
+**Name:** Automatic Crack Detection on Concrete Images Using Segmentation via Fuzzy C-means Clustering<br>
+**Publication category:** IEEE <br>
+**Publication Name:** 2017 IEEE International Conference on Applied System Innovation <br>
+**Issuing Time:** 2017_07_24 <br>
+**Contribution:** 提出了一种在混凝土表面图像中检测宽度为0.3 mm或更大的裂缝的新方法 <br>
+**Difficulty:** 当无人机用于检查设施时，必须密切接近设施以检查小条件细节。由于单张照片不能捕获设施的大范围区域，因此检查员必须使用无人机捕获许多图像以检查整个设施。因此，必须仔细检查数百或数千个图像，这是非常耗时的 <br>
+**Result:** 所提出的方法对于裂缝检测是有效的。新提出的方法比我们以前的工作获得更高的召回率和精确度。但是，如果包含裂缝的簇也含有大量噪声，则裂缝检测不太成功。   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/18/Automatic%20Crack%20Detection%20on%20Concrete%20Images%20Using%20Segmentation%20via%20Fuzzy%20C-means%20clustering.pdf 
+<br>
 
 ---
 ##  Updata Time:2019_01_14
