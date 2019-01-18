@@ -1,4 +1,8 @@
 # Crack-semantic-segmentation-
+
+---
+##  Updata Time:2019_01_18
+
 ---
 ##  Updata Time:2019_01_14
 **Name:** Road crack detection using deep convolutional neural network <br>
