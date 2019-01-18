@@ -184,15 +184,66 @@ particles on surface. <br>
 
 ---
 ##  Updata Time:2019_01_11
-**Name:** 边缘检测算子及其在裂缝图像中的应用 <br>
+**Name:** 基于卷积神经网络的桥梁裂缝检测与识别 <br>
 **Publication category:** 核心 <br>
-**Publication Name:** 混凝土 Concrete <br>
-**Issuing Time:** 2010 <br>
-**Contribution:** 介绍了几种经典算子的原理，设计了相关试验来提取裂缝图像，并使用Matlab 对裂缝图像进行边缘检测，分析这几种经典算子的优劣 <br>
-**Difficulty:** 找出适合进行裂缝图像边缘检测的最佳算子，以确保提取的裂缝参数的准确性，提高裂缝的判别精度 <br>
-**Result:** 高斯拉普拉斯（Laplacian of Gaussian）边缘检测算子是相对比较有效的裂缝图像边缘检测算子   <br>
-**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/边缘检测算子及其在裂缝图像中的应用.pdf
+**Publication Name:** Journal of Hebei University of Science and Technology <br>
+**Issuing Time:** 2016_10 <br>
+**Contribution:** 研究了一种基于数字化和智能化的检测方法 <br>
+**Difficulty:** 当前中国检测桥梁裂缝依赖人工目测，危险系数极大的落后现状 <br>
+**Result:** 实验结果显示：该方案能够找到超出桥梁裂缝最大限值的所有裂缝，并可以有效识别裂缝类型，识别率达90%以上，能够为桥梁裂缝检测提供参考数据   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/基于卷积神经网络的桥梁裂缝检测与识别.pdf
 <br>
+
+**Name:** 基于数字图像处理的路面裂缝自动分类算法 <br>
+**Publication category:** EI <br>
+**Publication Name:** 中国公路学报 China Journal of Highway and Transport <br>
+**Issuing Time:** 2014_09 <br>
+**Contribution:** 提出一种基于数字图像处理的路面裂缝自动分类算法 <br>
+**Difficulty:** ，有监督方法准确率较高，但其需要人为干预，需要大量样本进行训练，计算成本高；无监督方法分类效果较差，但易于自动化、计算量小。综合二者优点，开发准确高效的裂缝种类识别无监督方法具有较好的前景。另外，裂缝分类研究还面临着难以识别裂缝严重程度的困境 <br>
+**Result:** 结果表明：裂缝分类和严重程度识别结果准确有效，可在无人为干预的情况下准确、自动、实时地提取路面裂缝种类和严重程度信息   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/基于数字图像处理的路面裂缝自动分类算法.pdf
+<br>
+
+**Name:** 沥青路面裂缝图像识别技术研究进展 <br>
+**Publication category:** none <br>
+**Publication Name:** 华东公路 <br>
+**Issuing Time:** 2009 <br>
+**Contribution:** 对当前国内沥青路面裂缝图像识别的硬件平台、图像处理、裂缝分类技术的发展动态进行了评述, 分析了存在的问题 <br>
+**Difficulty:** 评价分割算法的好坏, 必须从两个方面考虑, 首先是分割质量, 细小裂缝的缺失, 裂缝边缘的断续都将造成后续参数测量的误差, 并影响分类结果;其次, 算法的速度, 有些算法分割的质量很好, 但运算速度令人难以忍受, 路面裂缝图像需处理的数据成千上万, 高效、准确的分割算法至关重要。 <br>
+**Result:** 路面裂缝图像识别技术对高新技术的进步依赖很强, 随着新的测量理论, 新的硬件产品出现, 裂缝识别技术都要进行一次飞跃, 因此, 需要紧紧跟踪国际研究动态  <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/沥青路面裂缝图像识别技术研究进展.pdf
+<br>
+
+**Name:** 路面检测技术综述 <br>
+**Publication category:** EI <br>
+**Publication Name:** 交通运输工程学报Journal of Traffic and Transportation Engineering <br>
+**Issuing Time:** 2017_10 <br>
+**Contribution:** 总结了路面检测重要研究成果，分析了路面损坏、平整度、车辙、抗滑性能（构造深度）和结构强度（弯沉）检测技术的发展现状，研究了路面检测技术的不足与发展方向 <br>
+**Difficulty:** <br>
+**Result:** 近年来，针对路面算法的研究主要集中在对各种裂缝特征的提取，对于目标特征的分割优劣直接影响到检测算法的准确性。许多学者提出了各种形式的算法，主要有基于阈值的分割算法、基于边缘检测的分割算法、基于多尺度的分割算法、基于数学形态学的分割方法等   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/路面检测技术综述.pdf
+<br>
+
+**Name:** 路面裂缝图像识别算法研究进展 <br>
+**Publication category:** 核心 <br>
+**Publication Name:** 中外公路 Journal of China & Foreign Highway <br>
+**Issuing Time:** 2013_12 <br>
+**Contribution:** 该文介绍了路面裂缝图像识别的三个主要环节，图像增强、图像分割和裂缝分类 <br>
+**Difficulty:** 目前国内高等级公路状况的主要检测手段是人工检测和半自动检测，这两种方法效率较低、劳动强度大、耗时多、误差高，难以保障调研安全性，且获取的数据欠缺准确性与全面性，不能对路面状况进行科学合理的评价和管理。因此，开发和设计高效、快速、准确的路面破损自动检测系统具有重要的意义 <br>
+**Result:** 结果表明，在分割效果上，基于动态优化的分割方法最好，统计学阈值分割效果最差，其余方法居中；在计算时间上，动态优化分割和多尺度小波方法居首，其余４种方法均具有实时处理的可行性。动态优化分割方法考虑了大量像素的连接性信息并进行优化，降低了噪声对分割结果的影响，具有广阔的前景。由于路面裂缝图像可能存在油污、杂物、阴影，拍摄过程系统失真、图像传输过程中的噪声污染等，即便经过图像增强处理也不能完全消除噪声，图像分割算法在检测效果、实时性和一致性等方面也不能达到满意的结果，需要继续研发高效稳健的算法。<br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/路面裂缝图像识别算法研究进展.pdf
+<br>
+
+**Name:** 路面裂缝图像自动识别算法综述 <br>
+**Publication category:** CSCD <br>
+**Publication Name:** 混凝土 Concrete <br>
+**Issuing Time:** 2014_7 <br>
+**Contribution:** 对路面裂缝自动检测研究现状进行综述 <br>
+**Difficulty:** 国内外许多学者开始设计基于图像处理的裂缝自动识别算法，从空间域到频域、从考虑局部信息到全局优化、从无监督方法到有监督方法，并应用了数学形态学、模糊逻辑、小波变换及神经网络等方法，以求快速、自动、准确和稳定地检测裂缝。但由于路面状况的复杂多变和二维图像信息的局限性，在没有人为干预的情况下，仍难获得满意的结果 <br>
+**Result:** 裂缝图像识别算法在准确性、实时性和一致性等方面未能达到满意的结果，需要进一步研发高效稳健的算法  <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/路面裂缝图像自动识别算法综述.pdf
+<br>
+
 
 ---
 ##  Updata Time:2019_01_10
