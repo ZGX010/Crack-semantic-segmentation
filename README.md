@@ -192,3 +192,39 @@ particles on surface. <br>
 **Difficulty:**  <br>
 **Result:** 有效地提取裂缝形态和特征值，并在准确率和召回率上有着优良的表现，可以满足裂缝图像分割的高精度要求   <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/A%20Crack%20Image%20Segmentation%20Method%20Based%20on%20Small%20Scale%20Fractal%20Dimension.pdf  <br>
+
+---
+##  Updata Time:2019_01_09
+**Name:** 基于灰度分析的路面裂缝图像分类算法研究 <br>
+**Publication category:** 核心 <br>
+**Publication Name:** Journal of Wuhan University of Technology(Transportation Science & Engineering) <br>
+**Issuing Time:** 2018_10 <br>
+**Contribution:** 提出了基于灰度分析的路面裂缝图像分类算法 <br>
+**Difficulty:** 如何高效、可靠、经济的对路面裂缝图像分类研究仍然至关重要 <br>
+**Result:**  1.与已有的一些算法进行比较，本算法的处理效率较高，迭代次数较少，能保留细微裂缝的信息；2.在路面子块图像的灰度均值、方差以及熵特征的分析基础之上，选取子块图像的方差和熵作为神经网络的输入值，对路面图像进行分类，其检测率高达98%，且误检率为0；3.但研究结论不能给出具体指标（如路面裂缝的类型、宽度、深度等）  <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/9/基于灰度分析的路面裂缝图像分类算法研究.pdf
+<br>
+
+**Name:** 基于计算机视觉技术的结构表面裂缝检测方法研究 <br>
+**Publication category:** EI <br>
+**Publication Name:** Journal of Building Structures <br>
+**Issuing Time:** 2018_9  <br>
+**Contribution:** 提出一种将深度卷积神经网络与传统图像处理相结合的裂缝自动提取方法<br>
+**Difficulty:** 基于深度卷积神经网络的裂缝识别模型表现突出，但依旧有许多局限性:
+1) 训练深度卷积神经网络需要大量标签样本，而现阶段并没有相应的裂缝标签图像数据库，裂缝标签样本数据匮乏; 2) 无法对图像上的裂缝目标进行自动提取 <br>
+**Result:** 经过验证测试，识别正确率达到98%以上   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/9/基于计算机视觉技术的结构表面裂缝检测方法研究.pdf
+<br>
+
+**Name:** 基于卷积神经网络的路面裂缝检测 <br>
+**Publication category:** CSCD <br>
+**Publication Name:** Transducer and Microsystem Technologies <br>
+**Issuing Time:** 2017  <br>
+**Contribution:** 提出基于CNN检测路面图像的裂缝 <br>
+**Difficulty:** 提高裂缝检测的准确率 <br>
+**Result:** 对采集的原始公路裂缝图像，利用CNN能够较好地提取裂缝并且保持裂缝边缘的连接性。   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/9/基于卷积神经网络的路面裂缝检测.pdf
+<br>
+
+---
+##  Updata Time:2019_01_08
