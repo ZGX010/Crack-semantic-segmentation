@@ -135,7 +135,7 @@
 
 ---
 ##  Updata Time:2019_01_12
-**Name:** A Crack Image Segmentation Method Based on Small Scale Fractal Dimension <br>
+**Name:** 基于小尺度分形维数的裂缝图像分割方法 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Journal of Highway and Transportation Research and Development <br>
 **Issuing Time:** 2018_5_13 <br>
