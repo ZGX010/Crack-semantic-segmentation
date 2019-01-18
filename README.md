@@ -184,14 +184,56 @@ particles on surface. <br>
 
 ---
 ##  Updata Time:2019_01_10
-**Name:** A Crack Image Segmentation Method Based on Small Scale Fractal Dimension <br>
+**Name:** 边缘检测算子及其在裂缝图像中的应用 <br>
+**Publication category:** 核心 <br>
+**Publication Name:** 混凝土 Concrete <br>
+**Issuing Time:** 2010 <br>
+**Contribution:** 介绍了几种经典算子的原理，设计了相关试验来提取裂缝图像，并使用Matlab 对裂缝图像进行边缘检测，分析这几种经典算子的优劣 <br>
+**Difficulty:** 找出适合进行裂缝图像边缘检测的最佳算子，以确保提取的裂缝参数的准确性，提高裂缝的判别精度 <br>
+**Result:** 高斯拉普拉斯（Laplacian of Gaussian）边缘检测算子是相对比较有效的裂缝图像边缘检测算子   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/边缘检测算子及其在裂缝图像中的应用.pdf
+<br>
+
+**Name:** 基于open cv和改进canny算子的路面裂缝检测 <br>
+**Publication category:** 核心 <br>
+**Publication Name:** 计算机工程与设计computer engineering and design <br>
+**Issuing Time:** 2014_12 <br>
+**Contribution:** 提出一种基于OpenCV 开源平台及Canny 算子的路面裂缝检测算法 <br>
+**Difficulty:** 目前，大部分基于计算机视觉的路面裂缝检测方法无法同时满足实时性和精确性的要求。由于路面本身纹理及光照、阴影等外在干扰使得路面图像包含大量噪声，导致了路面裂纹检测变得十分复杂 <br>
+**Result:** 实验结果表明，改进后的Canny算子对路面裂缝检测时，保证了检测的实时性，且提高了检测的精度   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/基于OpenCV和改进Canny算子的路面裂缝检测.pdf  
+<br>
+
+**Name:** 基于图像的水泥路面裂缝识别方法及应用 <br>
+**Publication category:** EI <br>
+**Publication Name:** 北京邮电大学学报 <br>
+**Issuing Time:** 2012_12 <br>
+**Contribution:** 首先用小波变换提取图像高频信息，获得包含裂缝、接缝及噪声的二值化图; 再根据投影峰值特征，判断图像中是否包含接缝、确定接缝位置 <br>
+**Difficulty:** 水泥路面存在污染、噪声时，由于存在刻槽、接缝的干扰，给路面裂缝识别带来很大困难，无法用传统方法实现裂缝自动识别 <br>
+**Result:** 通过对水泥路面的批量识别，实践证明本文算法可以准确地识别水泥路面裂缝，避免噪声和接缝的干扰。解决了长期以来水泥路面裂缝自动检测精度低的难题，大幅提高了检测效率、检测精度，加快了检测速度，降低了检测成本，为道路检测和道路养护部门及时、准确地提供了路面损坏分析数据   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/基于图像的水泥路面裂缝识别方法及应用.pdf  
+<br>
+
+**Name:** 一种基于形态学的路面裂缝图像检测与分析方法 <br>
 **Publication category:** CSCD <br>
-**Publication Name:** Journal of Highway and Transportation Research and Development <br>
-**Issuing Time:** 2018_5_13 <br>
-**Contribution:** proposed a new algorithm of small scale fractal dimension <br>
+**Publication Name:** 工程图学学报Journal of Engineering <br>
+**Issuing Time:** 2008 <br>
+**Contribution:** 提出了一种路面裂缝图像检测与分析的新方法 <br>
 **Difficulty:**  <br>
-**Result:** 有效地提取裂缝形态和特征值，并在准确率和召回率上有着优良的表现，可以满足裂缝图像分割的高精度要求   <br>
-**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/A%20Crack%20Image%20Segmentation%20Method%20Based%20on%20Small%20Scale%20Fractal%20Dimension.pdf  <br>
+**Result:** 实验结果表明，该方法有抗噪性能好、边缘提取能力强、路面裂缝特性分析精确和计算量较小等优点   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/一种基于形态学的路面裂缝图像检测与分析方法.pdf  
+<br>
+
+**Name:** 用图像处理的方法检测公路路面裂缝类病害 <br>
+**Publication category:** CSCD <br>
+**Publication Name:** Journal of Chang’an University(Natural Science Edition) <br>
+**Issuing Time:** 2004_5 <br>
+**Contribution:** 构造了8个方向的sobel模板对路面裂缝累病害图像进行边缘检测 <br>
+**Difficulty:** 公路路面裂缝累病害的类容多样且复杂，对于病害的识别与测量都是很复杂的过程 <br>
+**Result:** 处理结果相对于其他经典算法, 裂缝边缘宽度较细, 并且裂缝的边缘保护很好, 裂缝边缘的连续性也比较好。用图像处理的方法检测公路路面裂缝类病害, 检测精度和检测效果都比较满意   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/用图像处理的方法检测公路路面裂缝类病害.pdf  
+<br>
+
 
 ---
 ##  Updata Time:2019_01_09
