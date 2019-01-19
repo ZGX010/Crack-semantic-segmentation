@@ -2,6 +2,36 @@
 
 ---
 ##  Updata Time:2019_01_19
+**Name:** Road crack detection using deep convolutional neural network<br>
+**Publication category:** IEEE <br>
+**Publication Name:** 2016 IEEE International Conference on Image Processing (ICIP) <br>
+**Issuing Time:** 2016 <br>
+**Contribution:** 本文提出了一种基于深度学习的裂缝检测方法（ConvNet） <br>
+**Difficulty:** 路面裂缝的自动检测是驾驶安全保障运输维护的重要任务。然而，由于裂缝的强度不均匀性和背景的复杂性，例如与周围路面的低对比度以及可能具有相似强度的阴影，它仍然是一项具有挑战性的任务。<br>
+**Result:** 将所提出的方法与支持向量机（SVM）和Boosting方法进行比较,在精度、召回率和F1 都表现更优<br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Road%20crack%20detection%20using%20deep%20convolutional%20neural%20network.pdf
+<br>
+
+**Name:** Crack image segmentation based on improved DBC method <br>
+**Publication category:** SPIE<br>
+**Publication Name:** LIDAR Imaging Detection and Target Recognition <br>
+**Issuing Time:** 2017 <br>
+**Contribution:** 本文介绍了一种基于分形DBC（差分盒计数）的裂缝图像分割方法。所提出的方法可以基于邻域信息估计每个像素分形特征，邻域信息可以考虑相关块中所有可能方向的贡献。 <br>
+**Difficulty:** 随着计算机视觉技术的发展，基于数字图像分割方法的裂缝检测引起全球研究人员和交通部门的关注。由于裂纹总是呈现出随机形状和复杂的纹理，因此实现可靠的裂缝检测结果仍然是一个挑战。<br>
+**Result:** 这种新方法可以根据每个像素的分形特征有效地实现裂缝图像分割。实验证明，该方法可以在裂纹检测中取得满意的效果。 <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Crack%20image%20segmentation%20based%20on%20improved%20DBC%20method.pdf
+<br>
+
+**Name:** Grid-based pavement crack analysis using deep learning <br>
+**Publication category:** IEEE <br>
+**Publication Name:** 2017 4th International Conference on Transportation Information and Safety (ICTIS) <br>
+**Issuing Time:** 2017_09_21 <br>
+**Contribution:** 我们应用CNN检测路面裂缝和PCA（主成分分析）来对检测到的路面裂缝进行分类 <br>
+**Difficulty:** 检测到的路面裂缝在路面养护中起着重要作用。图像识别是检测路面裂缝的传统方式。最近，深度学习是目标检测的最先进方法。CNN（卷积神经网络）是深度学习中的一种重要方法，广泛应用于图像目标检测并带来突破。然而，CNN尚未应用于路面裂缝检测。<br>
+**Result:** 通过作者收集的路面裂缝图像验证了该方法的有效性。该方法分别对纵向裂纹，横向裂纹和鳄鱼裂纹的分类修正率分别达到97.2％，97.6％和90.1％。与使用神经网络的路面裂缝分类相比，增加了正确的分类率。 <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Grid-based%20pavement%20crack%20analysis%20using%20deep%20learning.pdf
+<br>
+
 **Name:** Automated Pixel-Level Pavement Crack Detection on 3D Asphalt Surfaces Using a Deep-Learning Network：Pixel-level pavement crack detection on 3D asphalt surfaces <br>
 **Publication category:** SCI <br>
 **Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
