@@ -62,6 +62,26 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Automatic%20pixel-level%20crack%20detection%20and%20measurement%20using%20fully%20convolutional%20network.pdf
 <br>
 
+**Name:** Structured Labels in Random Forests for Semantic Labelling and Object Detection <br>
+**Publication category:** IEEE <br>
+**Publication Name:** IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
+**Issuing Time:** 2014_04_07 <br>
+**Contribution:** 我们提出了一种简单有效的方法，将结构化学习中的思想集成到流行的随机森林框架中，用于语义图像标记和对象检测 <br>
+**Difficulty:** 随机决策树的集合，称为随机森林，已成为解决许多计算机视觉问题的有价值的机器学习工具。尽管它们很受欢迎，但很少有作品尝试在随机森林中利用上下文和结构信息来提高它们的性能 <br>
+**Result:** 将算法用于CamVid和MSRCv2数据库上的语义分割任务，用于在KAIST Hanja2数据库上进行修复以及在两个TU Darmstadt行人数据库上进行对象检测的任务。为语义分割和目标检测提供了几个实验，并且与标准随机森林和条件随机场（使用成对势）分类结果相比，发现了优异的结果 <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Structured%20Labels%20in%20Random%20Forests%20for%20Semantic%20Labelling%20and%20Object%20Detection.pdf
+<br>
+
+**Name:** Semantic texton forests for image categorization and segmentation <br>
+**Publication category:** IEEE <br>
+**Publication Name:** 2008 IEEE Conference on Computer Vision and Pattern Recognition <br>
+**Issuing Time:** 2008 <br>
+**Contribution:** propose semantic texton forests, efficient and powerful new low-level features <br>
+**Difficulty:** <br>
+**Result:** 我们的结果显着提高了分割准确性的最新水平，而且，我们使用高效的决策森林使执行速度至少提高了五倍。我们评估了两个数据集，包括非常具有挑战性的VOC 2007分段数据集。我们的结果显着提高了分割准确性的最新水平，而且，我们使用高效的决策森林使执行速度至少提高了五倍。我们评估了两个数据集，包括非常具有挑战性的VOC 2007分段数据集。我们的结果显着提高了分割准确性的最新水平，而且，我们使用高效的决策森林使执行速度至少提高了五倍 <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Semantic%20texton%20forests%20for%20image%20categorization%20and%20segmentation.pdf
+<br>
+
 ---
 ##  Updata Time:2019_01_18
 **Name:** A Deep Convolutional Neural Network for Semantic Pixel-Wise Segmentation of Road and Pavement Surface Cracks <br>
