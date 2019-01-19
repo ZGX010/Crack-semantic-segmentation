@@ -52,6 +52,16 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Pavement%20distress%20detection%20using%20random%20decision%20forests.pdf
 <br>
 
+**Name:** Neural Decision Forests for Semantic Image Labelling <br>
+**Publication category:** IEEE <br>
+**Publication Name:** 2014 IEEE Conference on Computer Vision and Pattern Recognition <br>
+**Issuing Time:** 2014 <br>
+**Contribution:** present Neural Decision Forests, a novel approach to jointly tackle data representation- and discriminative learning within randomized decision trees <br>
+**Difficulty:** 决策森林是二元决策树的集合，由于它们的效率，灵活性，良好的泛化能力和处理多类问题的固有能力而在计算机视觉中变得非常流行。它们已应用于各种任务，包括语义分割，物体检测[和边缘检测。但是，尚未采用决策森林来解释先前引入的意义上的代表性学习 <br>
+**Result:** 实验评估显示了有希望的结果。使用派生数据表示作为输入，与以前基于森林的方法相比，我们的方法在ETrims8和CamVid数据集上产生了新的最新分数,在三种不同的数据集进行测试：Etrims8，CamVid和野外Labeled Faces  <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Bulo_Neural_Decision_Forests_2014_CVPR_paper.pdf
+<br>
+
 **Name:** Automatic road crack detection using random structured forests <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IEEE Transactions on Intelligent Transportation Systems <br>
