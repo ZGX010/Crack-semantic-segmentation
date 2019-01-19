@@ -2,6 +2,16 @@
 
 ---
 ##  Updata Time:2019_01_19
+**Name:** Automated Pixel-Level Pavement Crack Detection on 3D Asphalt Surfaces Using a Deep-Learning Network：Pixel-level pavement crack detection on 3D asphalt surfaces <br>
+**Publication category:** SCI <br>
+**Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
+**Issuing Time:** 2018 <br>
+**Contribution:** 本文提出了一种名为CrackNet-R的递归神经网络（RNN），用于三维（3D）沥青路面的全自动像素级裂缝检测 <br>
+**Difficulty:** 传统算法在推广不同路面上裂缝检测的复杂性方面存在许多局限性，缺乏从示例数据中学习的能力; 与CNN相关的局部感受野问题在较大背景下检测裂缝时产生了许多挑战，以获得更高的置信水平。路面裂缝可以被认为是在路面上形成下降图案的像素序列，递归神经网络（RNN）适用于这种应用<br>
+**Result:** 使用500个测试路面图像的实验表明，CrackNet-R可同时实现高精度（88.89％），召回（95.00％）和F测量（91.84％） <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Automated%20Pixel-Level%20Pavement%20Crack%20Detection%20on%203D%20Asphalt%20Surfaces%20Using%20a%20Deep-Learning%20Network%EF%BC%9APixel-level%20pavement%20crack%20detection%20on%203D%20asphalt%20surfaces.pdf
+<br>
+
 **Name:** Pavement distress detection using random decision forests <br>
 **Publication category:** Springer <br>
 **Publication Name:** International Conference on Data Science <br>
