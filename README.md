@@ -1,6 +1,68 @@
 # Crack-semantic-segmentation-
 
 ---
+##  Updata Time:2019_01_19
+**Name:** Pavement distress detection using random decision forests <br>
+**Publication category:** Springer <br>
+**Publication Name:** International Conference on Data Science <br>
+**Issuing Time:** 2015 <br>
+**Contribution:** 提出了一种基于随机决策森林的路面遇险检测方法 <br>
+**Difficulty:** 在使用路面裂缝检测技术进行道路维护时存在许多具有挑战性的问题，例如对裂缝强度相似的纹理环境的推断，沿着裂缝的强度不均匀性的存在以及实践中实时检测的要求 <br>
+**Result:** 解决了上面提到的所有三个问题。另外，根据随机决策森林的特点，我们的方法易于并行，能够进行实时检测。实验结果表明，我们的方法比现有方法更快，更准确   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Pavement%20distress%20detection%20using%20random%20decision%20forests.pdf
+<br>
+
+**Name:** Automatic road crack detection using random structured forests <br>
+**Publication category:** IEEE <br>
+**Publication Name:** IEEE Transactions on Intelligent Transportation Systems <br>
+**Issuing Time:** 2016_12 <br>
+**Contribution:** 提出CrackForest，一种基于随机结构化森林的新型道路裂缝检测框架，以解决这些问题。贡献如下：1）应用积分通道特征重新定义构成裂缝的标记，并用强度不均匀性更好地表示裂缝; 2）引入随机结构化森林，生成高性能裂缝探测器，它可以识别任意复杂的裂缝; 3）提出一种新的裂缝描述符来表征裂缝，并有效地从噪声中辨别出裂缝。此外，方法更快，更容易并行 <br>
+**Difficulty:** 自动道路裂缝检测受到挑战，因为沿裂缝的强烈不均匀性，裂缝的拓扑复杂性，与裂缝具有相似纹理的噪声的推断等等 <br>
+**Result:** 实验结果证明了与竞争方法相比，CrackForest具有最先进的检测精度,具有良好的精度和召回率   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Automatic%20road%20crack%20detection%20using%20random%20structured%20forest.pdf
+<br>
+
+**Name:** Cracktree: Automatic crack detection from pavement images <br>
+**Publication category:** EI <br>
+**Publication Name:** Pattern Recognition Letters <br>
+**Issuing Time:** 2012 <br>
+**Contribution:** 开发了一个测地阴影去除算法，以消除路面阴影，同时保留裂缝。其次，我们使用张量投票建立裂缝概率图，这增强了裂缝碎片的连接，具有良好的接近度和曲线连续性。最后，我们从裂缝概率图中采样一组裂缝种子，通过图模型表示这些种子，从该图中导出最小生成树，并进行递归树边修剪以识别所需的裂缝。我们对206个真实路面图像的集合进行了评估 <br>
+**Difficulty:** 在实践中，裂缝检测是一个非常具有挑战性的问题，因为（1）裂缝与周围路面之间的对比度低，（2）沿裂缝的强度不均匀性，以及（3）与裂缝具有相似强度的可能阴影。 <br>
+**Result:** 定性和定量比较结果均表明，所提出的CrackTree方法优于现有的几种裂缝检测和边缘检测算法   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/CrackTree%EF%BC%9AAutomatic%20crack%20detection%20from%20pavement%20images.pdf
+<br>
+
+**Name:** Crackit - an image processing toolbox for crack detection and characterization <br>
+**Publication category:** IEEE <br>
+**Publication Name:** 2014 IEEE International Conference on Image Processing (ICIP) <br>
+**Issuing Time:** 2015_01_29 <br>
+**Contribution:** 本文提出了一套全面的路面裂缝损伤检测和表征图像处理算法 <br>
+**Difficulty:** 高速图像采集系统产生大量需要高效和精确处理的数据（图像），以获得关于道路状况的可靠评估。自动路面图像分析系统的实施带来了一些挑战，需要复杂的数据处理技术来处理路面状况和纹理变化 <br>
+**Result:** 对于样本图像，CrackIT工具箱算法实现了约97％的Fm度量，对应于r e = 98.4 ％ 和p r= 95.5％，当合并采用的parzen窗口分类策略结果（bb和pb）时，使用R-UINTA平滑。CrackIT能够自动检测地面实况中发现的所有裂缝，因此在评估pb裂缝检测结果时对应于100％的召回   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/CrackIT%20–%20AN%20IMAGE%20PROCESSING%20TOOLBOX%20FOR.pdf
+<br>
+
+**Name:** Free-form anisotropy: A new method for crack detection on pavement surface images <br>
+**Publication category:** IEEE <br>
+**Publication Name:** Image Processing (ICIP) <br>
+**Issuing Time:** 2011 <br>
+**Contribution:** 本文提出了一种新的测量方法，在分割步骤中同时考虑亮度和连通性，用于道路路面图像的裂缝检测 <br>
+**Difficulty:** 自动道路裂缝检测受到挑战，因为沿裂缝的强烈不均匀性，裂缝的拓扑复杂性，与裂缝具有相似纹理的噪声的推断等等 <br>
+**Result:** 自由形状各向异性（FFA）的分割新方法检出率为93.6％，误报率为13.7％。采用条件纹理各向异性（CTA）方法，检测率仅为73.8％，误报率超过27.6％，FFA在连接性和稳健性都优与CTA   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Free-form%20anisotropy%EF%BC%9AA%20new%20method%20for%20crack%20detection%20on%20pavement%20surface%20images.pdf
+<br>
+
+**Name:** Automatic pixel-level crack detection and measurement using fully convolutional network <br>
+**Publication category:** SCI_JCR_Q1 <br>
+**Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
+**Issuing Time:** 2018_08_29 <br>
+**Contribution:** 实现了一种新的深度学习技术-全卷积网络（FCN）来解决这个问题 <br>
+**Difficulty:** 裂缝的空间特征是评估和评估现有建筑物和基础设施健康状况的重要指标。然而，当前的手动裂缝描述方法耗时且耗费人力。为了提高裂缝检查的效率，已经利用先进的基于计算机视觉的技术在图像级和网格单元级自动检测裂缝。但是现有的裂缝检测具有（高特异性）低通用性和低效率，因为传统方法不能在像素级同时识别和测量不同的裂缝。 <br>
+**Result:** 为了验证预测，将预测的分割与最近的裂缝识别和地面实况的先进方法进行比较。对于裂缝分割，准确度，精度，召回率和F1得分分别为97.96％，81.73％，78.97％和79.95％。对于裂纹长度，相对测量误差在-48.03％至177.79％之间变化，同时裂纹宽度为-13.27％至24.01％。结果表明，FCN对于裂缝识别和测量是可行和充分的。   <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Automatic%20pixel-level%20crack%20detection%20and%20measurement%20using%20fully%20convolutional%20network.pdf
+<br>
+
+---
 ##  Updata Time:2019_01_18
 **Name:** A Deep Convolutional Neural Network for Semantic Pixel-Wise Segmentation of Road and Pavement Surface Cracks <br>
 **Publication category:** IEEE <br>
