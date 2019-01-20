@@ -1,6 +1,78 @@
 # Crack-semantic-segmentation-
 
 ---
+##  Updata Time:2019_01_20
+**Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
+**Publication category:** SCI <br>
+**Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
+**Issuing Time:** 2017_03 <br>
+**Contribution:** 我们应用CNN检测路面裂缝和PCA（主成分分析）来对检测到的路面裂缝进行分类 <br>
+**Difficulty:** 本文提出了一种基于视觉的方法，该方法使用深层结构的卷积神经网络（CNN）来检测混凝土裂缝，而无需计算缺陷特征 <br>
+**Result:** 设计的CNN在256×256像素分辨率的40K图像上进行训练，因此记录精度约为98％。经过训练的CNN与滑动窗口技术相结合，可扫描任何大于256×256像素分辨率的图像。所提出的方法的稳健性和适应性在55个5,888×3,584像素分辨率的图像上进行测试，这些图像取自不同的结构，不用于各种条件下的训练和验证过程（例如，强光点，阴影和非常薄的裂缝）。进行比较研究以使用传统的Canny和Sobel边缘检测方法检查所提出的CNN的性能 <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Deep%20learning-based%20crack%20damage%20detection%20using%20convolutional%20neural%20networks.pdf
+<br>
+
+**Name:** How to get pavement distress detection ready for deep learning? A systematic approach <br>
+**Publication category:** IEEE <br>
+**Publication Name:** International Joint Conference on Neural Networks <br>
+**Issuing Time:** 2017_07_03 <br>
+**Contribution:** 提出了GAPs数据集，这是第一个可自由使用的路面裂缝数据集，其大小足以训练高性能的深度神经网络。它提供高质量的图像，通过符合德国联邦法规的标准化流程记录，以及详细的裂缝注释。 <br>
+**Difficulty:** 道路状况的获取和评估是保证其永久可用性的关键。为了维护一个国家的整个道路网络，每年必须分析数百万张高分辨率图像。目前，这需要成本和时间过度的手工劳动。我们的目标是通过应用深度神经网络来高度自动化这一过程。此类网络需要大量数据才能成功培训，目前尚未公开。<br>
+**Result:** IX（ASINVOS网，ASINVOS-mod，RCD网，CrackIT）。分析结果很明显，深度学习方法（ASINVOS网，ASINVOS-mod，RCD网）明显优于经典的计算机视觉方法，如CrackIT。<br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/How%20to%20get%20pavement%20distress%20detection%20ready.pdf
+<br>
+
+**Name:** Autonomous structural visual inspection using region-based deep learning for detecting multiple damage types <br>
+**Publication category:** SCI <br>
+**Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
+**Issuing Time:** 2017_11_28 <br>
+**Contribution:** 提出了一种基于快速区域的卷积神经网络（快速R-CNN）结构视觉检测方法 <br>
+**Difficulty:** 开发了基于计算机视觉的技术，以克服受过训练的人力资源进行目视检查的局限性，并远程检测图像中的结构损坏，但大多数方法仅检测特定类型的损坏，例如混凝土或钢筋裂缝。<br>
+**Result:** 开发了包括2,366幅图像（500×375像素）的数据库，其标记为五种类型的损坏 - 混凝土裂缝，具有两级（中等和高）的钢腐蚀，螺栓腐蚀和钢分层。然后，使用该数据库修改，训练，验证和测试更快的R-CNN的体系结构。结果显示90.6％，83.4％，82.1％，98.1％和84。5种伤害类型的平均精度（AP）分别为7％，平均AP为87.8％。使用由不同结构拍摄的11个新的6,000×4,000像素图像来评估和演示训练的更快的R-CNN的稳健性。其性能也与传统的基于CNN的方法相比。考虑到所提出的方法提供了非常快的测试速度（每个图像0.03秒，分辨率为500×375），开发了使用训练网络对视频进行准实时损伤检测的框架 <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Autonomous%20structural%20visual%20inspection%20using%20region-based%20deep%20learning%20for%20detecting%20multiple%20damage%20types.pdf
+<br>
+
+**Name:** Enhanced Crack Segmentation Algorithm Using 3D Pavement Data <br>
+**Publication category:** SCI <br>
+**Publication Name:** Journal of Computing in Civil Engineering <br>
+**Issuing Time:** 2016_05 <br>
+**Contribution:** 本文的目的是提出一种增强的动态优化算法，该算法利用三维路面数据的优势来改进裂缝分割。 <br>
+**Difficulty:** 自动路面裂缝分割在过去二十年中受到研究人员和运输机构的关注。然而，大多数使用二维（2D）路面强度图像的现有算法不能提供令人满意的性能。随着传感技术的出现，三维（3D）线激光路面成像系统已经问世。<br>
+**Result:** 对四种最常见的路面开裂类型（纵向，横向，块体和鳄鱼开裂）以及无遇险路面进行了测试，并比较了原始动态优化算法与所提算法之间的性能。实验结果表明，该算法仅需要约1 / 4原算法的平均计算时间。此外，由于所提出的算法消除了不必要的误报并更好地处理多个方向上的裂缝，因此裂缝分割的准确性得到了提高。<br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Enhanced%20Crack%20Segmentation%20Algorithm%20Using%203D.pdf
+<br>
+
+**Name:** Automated image processing technique for detecting and analysing concrete surface cracks <br>
+**Publication category:** SCI <br>
+**Publication Name:** Structure and Infrastructure Engineering <br>
+**Issuing Time:** 2013 <br>
+**Contribution:** 提出了一种自动检测和分析混凝土表面的数字图像中的裂缝的图像处理技术 <br>
+**Difficulty:** 裂缝是混凝土结构的安全性，耐用性和适用性的主要考虑因素，并且已经做出很多努力以最小化裂缝的负面影响。该研究基于测量裂缝特征，例如宽度，长度和方向，以及建立这些特征的数据库。然而，需要很多时间和精力来获得这些测量并编译相关数据，因为它通常是手动进行的 <br>
+**Result:** 测试结果表明，所提出的检测算法能够对几种类型的裂缝图像提供准确的裂缝检测，如裂缝图像包括无意义物体，枝状裂缝，沿主裂缝的几个小裂缝和具有纺织背景和污点的裂缝图像。<br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Automated%20image%20processing%20technique%20for%20detecting%20and%20analysing%20concrete%20surface%20cracks.pdf
+<br>
+
+**Name:** Automatic Road Crack Segmentation Using Thresholding Methods <br>
+**Publication category:** <br>
+**Publication Name:** International Journal of Human and Technology Interaction (IJHaTI) <br>
+**Issuing Time:** 2018 <br>
+**Contribution:** 提出了一种利用阈值法进行自动道路裂缝分割，以减少道路检查的时间和精力 <br>
+**Difficulty:** 道路裂缝是显示路面退化的关键指标之一。同样，路面检查是为了识别裂缝形式的退化，需要花费大量的时间和精力。 <br>
+**Result:** 采用Otsu和Sauvola阈值方法对图像进行二值化。道路裂缝图像的实验结果发现，归一化技术，L1-Sqrt范数有助于提高使用Otsu和Sauvola方法进行道路裂缝分割的性能，F分别为86.5287和98.7453，而不使用L1 - 用于Otsu方法的F-measure 78.5465的Sqrt范数和用于Sauvola方法的F-measure为98.5446。结果进一步表明，Sauvola方法在检测道路裂缝方面优于Otsu方法。<br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Automatic%20Road%20Crack%20Segmentation%20Using.pdf
+<br>
+
+**Name:** Automatic Local Segmentation Technique for Detection of Road Surface Crack <br>
+**Publication category:** SCI <br>
+**Publication Name:** International Journal of Advances in Electronics and Computer Science, <br>
+**Issuing Time:** 2016 <br>
+**Contribution:** 本研究提出采用Sauvola技术实现裂缝的自动局部分割 <br>
+**Difficulty:** 已经实施了图像处理技术来检测路面上的裂缝。然而，由于裂缝和非裂缝区域之间的分割困难，检测的准确性仍然很低。 <br>
+**Result:** 在分割步骤中，除了Sauvola之外，还实施了其他技术，即手动阈值处理，Otsu和Bernsen，用于比较目的。结果表明，Sauvola技术在高，中，低质量图像上产生一致的分割结果。Sauvola方法也可以进行96％的最佳精度检测<br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Automatic%20Local%20Segmentation%20Technique%20for%20Detection%20of%20Road%20Surface%20Crack.pdf
+<br>
+
+---
 ##  Updata Time:2019_01_19
 **Name:** Road crack detection using deep convolutional neural network<br>
 **Publication category:** IEEE <br>
