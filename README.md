@@ -228,16 +228,6 @@
 
 ---
 ##  Updata Time:2019_01_14
-**Name:** Road crack detection using deep convolutional neural network <br>
-**Publication category:** IEEE <br>
-**Publication Name:** IEEE international conference on image processing  <br>
-**Issuing Time:** 2016 <br>
-**Contribution:** a deep-learning based method for crack detection is proposed <br>
-**Difficulty:** the intensity inhomogeneity of cracks and complexity of the background <br>
-**Result:** 与现有方法提取的特征相比，所提出的深度学习框架所学习的深层特征提供了卓越的裂缝检测性能   <br>
-**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/Road%20crack%20detection%20using%20deep%20convolutional%20neural%20network.pdf
-<br>
-
 **Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IEEE Trans Ind Electron  <br>
