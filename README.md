@@ -2,7 +2,7 @@
 
 ---
 ##  Updata Time:2019_01_20
-**Number:60** **Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
+**Number:** 60 **Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
 **Publication category:** SCI <br>
 **Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
 **Issuing Time:** 2017_03 <br>
@@ -12,7 +12,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Deep%20learning-based%20crack%20damage%20detection%20using%20convolutional%20neural%20networks.pdf
 <br>
 
-**Name:** How to get pavement distress detection ready for deep learning? A systematic approach <br>
+**Number:** 59 **Name:** How to get pavement distress detection ready for deep learning? A systematic approach <br>
 **Publication category:** IEEE <br>
 **Publication Name:** International Joint Conference on Neural Networks <br>
 **Issuing Time:** 2017_07_03 <br>
@@ -22,7 +22,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/How%20to%20get%20pavement%20distress%20detection%20ready.pdf
 <br>
 
-**Name:** Autonomous structural visual inspection using region-based deep learning for detecting multiple damage types <br>
+**Number:** 58 **Name:** Autonomous structural visual inspection using region-based deep learning for detecting multiple damage types <br>
 **Publication category:** SCI <br>
 **Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
 **Issuing Time:** 2017_11_28 <br>
@@ -32,7 +32,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Autonomous%20structural%20visual%20inspection%20using%20region-based%20deep%20learning%20for%20detecting%20multiple%20damage%20types.pdf
 <br>
 
-**Name:** Enhanced Crack Segmentation Algorithm Using 3D Pavement Data <br>
+**Number:** 57 **Name:** Enhanced Crack Segmentation Algorithm Using 3D Pavement Data <br>
 **Publication category:** SCI <br>
 **Publication Name:** Journal of Computing in Civil Engineering <br>
 **Issuing Time:** 2016_05 <br>
@@ -42,7 +42,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Enhanced%20Crack%20Segmentation%20Algorithm%20Using%203D.pdf
 <br>
 
-**Name:** Automated image processing technique for detecting and analysing concrete surface cracks <br>
+**Number:** 56 **Name:** Automated image processing technique for detecting and analysing concrete surface cracks <br>
 **Publication category:** SCI <br>
 **Publication Name:** Structure and Infrastructure Engineering <br>
 **Issuing Time:** 2013 <br>
@@ -52,7 +52,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Automated%20image%20processing%20technique%20for%20detecting%20and%20analysing%20concrete%20surface%20cracks.pdf
 <br>
 
-**Name:** Automatic Road Crack Segmentation Using Thresholding Methods <br>
+**Number:** 55 **Name:** Automatic Road Crack Segmentation Using Thresholding Methods <br>
 **Publication category:** <br>
 **Publication Name:** International Journal of Human and Technology Interaction (IJHaTI) <br>
 **Issuing Time:** 2018 <br>
@@ -62,7 +62,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Automatic%20Road%20Crack%20Segmentation%20Using.pdf
 <br>
 
-**Name:** Automatic Local Segmentation Technique for Detection of Road Surface Crack <br>
+**Number:** 54 **Name:** Automatic Local Segmentation Technique for Detection of Road Surface Crack <br>
 **Publication category:** SCI <br>
 **Publication Name:** International Journal of Advances in Electronics and Computer Science, <br>
 **Issuing Time:** 2016 <br>
@@ -74,7 +74,7 @@
 
 ---
 ##  Updata Time:2019_01_19
-**Name:** Road crack detection using deep convolutional neural network<br>
+**Number:** 53 **Name:** Road crack detection using deep convolutional neural network<br>
 **Publication category:** IEEE <br>
 **Publication Name:** 2016 IEEE International Conference on Image Processing (ICIP) <br>
 **Issuing Time:** 2016 <br>
@@ -84,7 +84,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Road%20crack%20detection%20using%20deep%20convolutional%20neural%20network.pdf
 <br>
 
-**Name:** Crack image segmentation based on improved DBC method <br>
+**Number:** 52 **Name:** Crack image segmentation based on improved DBC method <br>
 **Publication category:** SPIE<br>
 **Publication Name:** LIDAR Imaging Detection and Target Recognition <br>
 **Issuing Time:** 2017 <br>
@@ -94,7 +94,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Crack%20image%20segmentation%20based%20on%20improved%20DBC%20method.pdf
 <br>
 
-**Name:** Grid-based pavement crack analysis using deep learning <br>
+**Number:** 51 **Name:** Grid-based pavement crack analysis using deep learning <br>
 **Publication category:** IEEE <br>
 **Publication Name:** 2017 4th International Conference on Transportation Information and Safety (ICTIS) <br>
 **Issuing Time:** 2017_09_21 <br>
@@ -104,7 +104,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Grid-based%20pavement%20crack%20analysis%20using%20deep%20learning.pdf
 <br>
 
-**Name:** Automated Pixel-Level Pavement Crack Detection on 3D Asphalt Surfaces Using a Deep-Learning Network：Pixel-level pavement crack detection on 3D asphalt surfaces <br>
+**Number:** 50 **Name:** Automated Pixel-Level Pavement Crack Detection on 3D Asphalt Surfaces Using a Deep-Learning Network：Pixel-level pavement crack detection on 3D asphalt surfaces <br>
 **Publication category:** SCI <br>
 **Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
 **Issuing Time:** 2018 <br>
@@ -114,7 +114,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Automated%20Pixel-Level%20Pavement%20Crack%20Detection%20on%203D%20Asphalt%20Surfaces%20Using%20a%20Deep-Learning%20Network%EF%BC%9APixel-level%20pavement%20crack%20detection%20on%203D%20asphalt%20surfaces.pdf
 <br>
 
-**Name:** Pavement distress detection using random decision forests <br>
+**Number:** 49 **Name:** Pavement distress detection using random decision forests <br>
 **Publication category:** Springer <br>
 **Publication Name:** International Conference on Data Science <br>
 **Issuing Time:** 2015 <br>
@@ -124,7 +124,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Pavement%20distress%20detection%20using%20random%20decision%20forests.pdf
 <br>
 
-**Name:** Neural Decision Forests for Semantic Image Labelling <br>
+**Number:** 48 **Name:** Neural Decision Forests for Semantic Image Labelling <br>
 **Publication category:** IEEE <br>
 **Publication Name:** 2014 IEEE Conference on Computer Vision and Pattern Recognition <br>
 **Issuing Time:** 2014 <br>
@@ -134,7 +134,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Bulo_Neural_Decision_Forests_2014_CVPR_paper.pdf
 <br>
 
-**Name:** Automatic road crack detection using random structured forests <br>
+**Number:** 47 **Name:** Automatic road crack detection using random structured forests <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IEEE Transactions on Intelligent Transportation Systems <br>
 **Issuing Time:** 2016_12 <br>
@@ -144,7 +144,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Automatic%20road%20crack%20detection%20using%20random%20structured%20forest.pdf
 <br>
 
-**Name:** Cracktree: Automatic crack detection from pavement images <br>
+**Number:** 46 **Name:** Cracktree: Automatic crack detection from pavement images <br>
 **Publication category:** EI <br>
 **Publication Name:** Pattern Recognition Letters <br>
 **Issuing Time:** 2012 <br>
@@ -154,7 +154,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/CrackTree%EF%BC%9AAutomatic%20crack%20detection%20from%20pavement%20images.pdf
 <br>
 
-**Name:** Crackit - an image processing toolbox for crack detection and characterization <br>
+**Number:** 45 **Name:** Crackit - an image processing toolbox for crack detection and characterization <br>
 **Publication category:** IEEE <br>
 **Publication Name:** 2014 IEEE International Conference on Image Processing (ICIP) <br>
 **Issuing Time:** 2015_01_29 <br>
@@ -164,7 +164,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/CrackIT%20–%20AN%20IMAGE%20PROCESSING%20TOOLBOX%20FOR.pdf
 <br>
 
-**Name:** Free-form anisotropy: A new method for crack detection on pavement surface images <br>
+**Number:** 44 **Name:** Free-form anisotropy: A new method for crack detection on pavement surface images <br>
 **Publication category:** IEEE <br>
 **Publication Name:** Image Processing (ICIP) <br>
 **Issuing Time:** 2011 <br>
@@ -174,7 +174,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Free-form%20anisotropy%EF%BC%9AA%20new%20method%20for%20crack%20detection%20on%20pavement%20surface%20images.pdf
 <br>
 
-**Name:** Automatic pixel-level crack detection and measurement using fully convolutional network <br>
+**Number:** 43 **Name:** Automatic pixel-level crack detection and measurement using fully convolutional network <br>
 **Publication category:** SCI_JCR_Q1 <br>
 **Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
 **Issuing Time:** 2018_08_29 <br>
@@ -184,7 +184,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Automatic%20pixel-level%20crack%20detection%20and%20measurement%20using%20fully%20convolutional%20network.pdf
 <br>
 
-**Name:** Structured Labels in Random Forests for Semantic Labelling and Object Detection <br>
+**Number:** 42 **Name:** Structured Labels in Random Forests for Semantic Labelling and Object Detection <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
 **Issuing Time:** 2014_04_07 <br>
@@ -194,7 +194,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/19/Structured%20Labels%20in%20Random%20Forests%20for%20Semantic%20Labelling%20and%20Object%20Detection.pdf
 <br>
 
-**Name:** Semantic texton forests for image categorization and segmentation <br>
+**Number:** 41 **Name:** Semantic texton forests for image categorization and segmentation <br>
 **Publication category:** IEEE <br>
 **Publication Name:** 2008 IEEE Conference on Computer Vision and Pattern Recognition <br>
 **Issuing Time:** 2008 <br>
@@ -206,7 +206,7 @@
 
 ---
 ##  Updata Time:2019_01_18
-**Name:** A Deep Convolutional Neural Network for Semantic Pixel-Wise Segmentation of Road and Pavement Surface Cracks <br>
+**Number:** 40 **Name:** A Deep Convolutional Neural Network for Semantic Pixel-Wise Segmentation of Road and Pavement Surface Cracks <br>
 **Publication category:** IEEE <br>
 **Publication Name:** 2018 26th European Signal Processing Conference (EUSIPCO) <br>
 **Issuing Time:** 2018_12_03 <br>
@@ -216,7 +216,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/18/A%20Deep%20Convolutional%20Neural%20Network%20for%20Semantic%20Pixel-wise%20segmentation%20of%20road%20and%20pavement%20surface%20cracks.pdf 
 <br>
 
-**Name:** Automatic Crack Detection on Concrete Images Using Segmentation via Fuzzy C-means Clustering<br>
+**Number:** 39 **Name:** Automatic Crack Detection on Concrete Images Using Segmentation via Fuzzy C-means Clustering<br>
 **Publication category:** IEEE <br>
 **Publication Name:** 2017 IEEE International Conference on Applied System Innovation <br>
 **Issuing Time:** 2017_07_24 <br>
@@ -228,7 +228,7 @@
 
 ---
 ##  Updata Time:2019_01_14
-**Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
+**Number:** 38 **Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IEEE Trans Ind Electron  <br>
 **Issuing Time:** 2018 <br>
@@ -238,7 +238,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/Deep%20learning-based%20crack%20damage%20detection%20using%20convolutional%20neural%20networks.pdf
 <br>
 
-**Name:** Crack detection using image processing <br>
+**Number:** 37 **Name:** Crack detection using image processing <br>
 **Publication category:** EI <br>
 **Publication Name:** Alexandria Engineering Journal <br>
 **Issuing Time:** 2018 <br>
@@ -248,7 +248,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/Crack%20detection%20using%20image%20processing.pdf
 <br>
 
-**Name:** FCM分割和形态学的沥青路面图像裂缝提取 <br>
+**Number:** 36 **Name:** FCM分割和形态学的沥青路面图像裂缝提取 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Computer Engineering and Applications <br>
 **Issuing Time:** 2013 <br>
@@ -258,7 +258,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/FCM分割和形态学的沥青路面图像裂缝提取.pdf
   <br>
   
-**Name:** 形态学和最大熵图像分割的城市路面裂缝检测 <br>
+**Number:** 35 **Name:** 形态学和最大熵图像分割的城市路面裂缝检测 <br>
 **Publication category:** 核心 <br>
 **Publication Name:** Journal of Liaoning Technical University（Natural Science） <br>
 **Issuing Time:** 2015_1 <br>
@@ -268,7 +268,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/形态学和最大熵图像分割的城市路面裂缝检测.pdf
   <br>
   
-**Name:** 基于小波变换图像分割技术的电成像测井资料裂缝、孔洞面孔率提取方法 <br>
+**Number:** 34 **Name:** 基于小波变换图像分割技术的电成像测井资料裂缝、孔洞面孔率提取方法 <br>
 **Publication category:** SCI <br>
 **Publication Name:** Chinese Journal of Geophysics <br>
 **Issuing Time:** 2017_12 <br>
@@ -278,7 +278,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/14/基于小波变换图像分割技术的电成像测井资料裂缝、孔洞面孔率提取方法.pdf
   <br>
 
-**Name:** NB-CNN deep learning-based crack detection using convolutional neural network and naïve bayes data fusion  <br>
+**Number:** 33 **Name:** NB-CNN deep learning-based crack detection using convolutional neural network and naïve bayes data fusion  <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IEEE Transactions on Industrial Electronics  <br>
 **Issuing Time:**  2018 <br>
@@ -290,7 +290,7 @@
  
 ---
 ##  Updata Time:2019_01_13
-**Name:** Densely connected convolutional networks<br>
+**Number:** 32 **Name:** Densely connected convolutional networks<br>
 **Publication category:** ieee <br>
 **Publication Name:** IEEE Transactions on Pattern Analysis & Machine Intelligence <br>
 **Issuing Time:** 2017 <br>
@@ -300,7 +300,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/Densely%20connected%20convolutional%20networks.pdf
   <br>
   
-**Name:** Image semantic segmentation based on convolutional neural network feature and improved superpixel matching <br>
+**Number:** 31 **Name:** Image semantic segmentation based on convolutional neural network feature and improved superpixel matching <br>
 **Publication category:** cscd <br>
 **Publication Name:** Laser & Optoelectronics Progress <br>
 **Issuing Time:** 2018 <br>
@@ -310,7 +310,7 @@
  **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/基于卷积神经网络特征和改进超像素匹配的图像语义分割.pdf
  <br>
  
-**Name:** SegNet: a deep convolutional encoder-decoder architecture for scene segmentation <br>
+**Number:** 30 **Name:** SegNet: a deep convolutional encoder-decoder architecture for scene segmentation <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IEEE Transactions on Pattern Analysis & Machine Intelligence <br>
 **Issuing Time:** 2015 <br>
@@ -320,7 +320,7 @@
  **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/a%20deep%20convolutional%20encoder-decoder%20architecture%20for%20scene.pdf
  <br>
  
-**Name:** Fully convolutional networks for semantic segmentation <br>
+**Number:** 29 **Name:** Fully convolutional networks for semantic segmentation <br>
 **Publication category:** ieee <br>
 **Publication Name:** IEEE Transactions on Pattern Analysis & Machine Intelligence <br>
 **Issuing Time:** 2014 <br>
@@ -330,7 +330,7 @@
   **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/Fully%20convolutional%20networks%20for%20semantic%20segmentation.pdf
 <br>
 
-**Name:** DeepLab: semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected CRFs <br>
+**Number:** 28 **Name:** DeepLab: semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected CRFs <br>
 **Publication category:** ieee <br>
 **Publication Name:**  IEEE Transactions on Pattern Analysis & Machine Intelligence <br>
 **Issuing Time:** 2018 <br>
@@ -340,7 +340,7 @@
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/13/semantic%20image%20segmentation%20with%20deep%20convolutional%20nets%2C%20atrous%20convolution%2C%20and%20fully%20connected%20CRFs.pdf
   <br>
   
-**Name:** The one hundred layers tiramisu: fully convolutional DenseNets for semantic segmentation <br>
+**Number:** 27 **Name:** The one hundred layers tiramisu: fully convolutional DenseNets for semantic segmentation <br>
 **Publication category:** ieee <br>
 **Publication Name:** 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops <br>
 **Issuing Time:** 2017 <br>
@@ -352,7 +352,7 @@
 
 ---
 ##  Updata Time:2019_01_12
-**Name:** 基于小尺度分形维数的裂缝图像分割方法 <br>
+**Number:** 26 **Name:** 基于小尺度分形维数的裂缝图像分割方法 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Journal of Highway and Transportation Research and Development <br>
 **Issuing Time:** 2018_5_13 <br>
@@ -361,7 +361,7 @@
 **Result:** 有效地提取裂缝形态和特征值，并在准确率和召回率上有着优良的表现，可以满足裂缝图像分割的高精度要求   <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/A%20Crack%20Image%20Segmentation%20Method%20Based%20on%20Small%20Scale%20Fractal%20Dimension.pdf  <br>
 
-**Name:** An Improved Otsu Method for Image Segmentation of Cracks <br>
+**Number:** 25 **Name:** An Improved Otsu Method for Image Segmentation of Cracks <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Chinese Journal of Underground Space and Engineering <br>
 **Issuing Time:** 2017_4_15 <br>
@@ -370,7 +370,7 @@
 **Result:** ，通过两步改进，利用传统Otsu 法不能分割的图像也能被分割。实验表明改进方法对裂缝图像是有效的。    <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/一种改进的用于裂缝图像分割的Otsu方法.pdf <br>
 
-**Name:** Improve of OSTU based on hough transformation and applied in pavement crack detection <br>
+**Number:** 24 **Name:** Improve of OSTU based on hough transformation and applied in pavement crack detection <br>
 **Publication category:** NONE <br>
 **Publication Name:** Electronic Design Engineering <br>
 **Issuing Time:** 2016_3_23 <br>
@@ -380,7 +380,7 @@ particles on surface. <br>
 **Result:** The segmentation results are stable and have strong anti-noise capacity， improve the accuracy and integrity of crack segmentation efficaciously.  <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/基于霍夫变换的OSTU改进算法在路面裂缝检测中的研究.pdf <br>
 
-**Name:** Morphology and maximum entropy image segmentation based urban pavement cracks detection <br>
+**Number:** 23 **Name:** Morphology and maximum entropy image segmentation based urban pavement cracks detection <br>
 **Publication category:** 核心 <br>
 **Publication Name:** Journal of Liaoning Technical University(Natural Science) <br>
 **Issuing Time:** 2015_1_15 <br>
@@ -389,7 +389,7 @@ particles on surface. <br>
 **Result:** The experimental results show that the synthetic method obtains a better detection result, rapidly and accurately detecting the edge of the crack while effectively suppressing the noise.    <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/12/形态学和最大熵图像分割的城市路面裂缝检测.pdf <br>
 
-**Name:** Highway surface crack image identifying algorithm <br>
+**Number:** 22 **Name:** Highway surface crack image identifying algorithm <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Journal of Transport Information and Safety <br>
 **Issuing Time:** 2014_4_20 <br>
@@ -401,7 +401,7 @@ particles on surface. <br>
 
 ---
 ##  Updata Time:2019_01_11
-**Name:** 基于卷积神经网络的桥梁裂缝检测与识别 <br>
+**Number:** 21 **Name:** 基于卷积神经网络的桥梁裂缝检测与识别 <br>
 **Publication category:** 核心 <br>
 **Publication Name:** Journal of Hebei University of Science and Technology <br>
 **Issuing Time:** 2016_10 <br>
@@ -411,7 +411,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/基于卷积神经网络的桥梁裂缝检测与识别.pdf
 <br>
 
-**Name:** 基于数字图像处理的路面裂缝自动分类算法 <br>
+**Number:** 20 **Name:** 基于数字图像处理的路面裂缝自动分类算法 <br>
 **Publication category:** EI <br>
 **Publication Name:** 中国公路学报 China Journal of Highway and Transport <br>
 **Issuing Time:** 2014_09 <br>
@@ -421,7 +421,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/基于数字图像处理的路面裂缝自动分类算法.pdf
 <br>
 
-**Name:** 沥青路面裂缝图像识别技术研究进展 <br>
+**Number:** 19 **Name:** 沥青路面裂缝图像识别技术研究进展 <br>
 **Publication category:** none <br>
 **Publication Name:** 华东公路 <br>
 **Issuing Time:** 2009 <br>
@@ -431,7 +431,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/沥青路面裂缝图像识别技术研究进展.pdf
 <br>
 
-**Name:** 路面检测技术综述 <br>
+**Number:** 18 **Name:** 路面检测技术综述 <br>
 **Publication category:** EI <br>
 **Publication Name:** 交通运输工程学报Journal of Traffic and Transportation Engineering <br>
 **Issuing Time:** 2017_10 <br>
@@ -441,7 +441,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/路面检测技术综述.pdf
 <br>
 
-**Name:** 路面裂缝图像识别算法研究进展 <br>
+**Number:** 17 **Name:** 路面裂缝图像识别算法研究进展 <br>
 **Publication category:** 核心 <br>
 **Publication Name:** 中外公路 Journal of China & Foreign Highway <br>
 **Issuing Time:** 2013_12 <br>
@@ -451,7 +451,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/11/路面裂缝图像识别算法研究进展.pdf
 <br>
 
-**Name:** 路面裂缝图像自动识别算法综述 <br>
+**Number:** 16 **Name:** 路面裂缝图像自动识别算法综述 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** 混凝土 Concrete <br>
 **Issuing Time:** 2014_7 <br>
@@ -464,7 +464,7 @@ particles on surface. <br>
 
 ---
 ##  Updata Time:2019_01_10
-**Name:** 边缘检测算子及其在裂缝图像中的应用 <br>
+**Number:** 15 **Name:** 边缘检测算子及其在裂缝图像中的应用 <br>
 **Publication category:** 核心 <br>
 **Publication Name:** 混凝土 Concrete <br>
 **Issuing Time:** 2010 <br>
@@ -474,7 +474,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/边缘检测算子及其在裂缝图像中的应用.pdf
 <br>
 
-**Name:** 基于open cv和改进canny算子的路面裂缝检测 <br>
+**Number:** 14 **Name:** 基于open cv和改进canny算子的路面裂缝检测 <br>
 **Publication category:** 核心 <br>
 **Publication Name:** 计算机工程与设计computer engineering and design <br>
 **Issuing Time:** 2014_12 <br>
@@ -484,7 +484,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/基于OpenCV和改进Canny算子的路面裂缝检测.pdf  
 <br>
 
-**Name:** 基于图像的水泥路面裂缝识别方法及应用 <br>
+**Number:** 13 **Name:** 基于图像的水泥路面裂缝识别方法及应用 <br>
 **Publication category:** EI <br>
 **Publication Name:** 北京邮电大学学报 <br>
 **Issuing Time:** 2012_12 <br>
@@ -494,7 +494,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/基于图像的水泥路面裂缝识别方法及应用.pdf  
 <br>
 
-**Name:** 一种基于形态学的路面裂缝图像检测与分析方法 <br>
+**Number:** 12 **Name:** 一种基于形态学的路面裂缝图像检测与分析方法 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** 工程图学学报Journal of Engineering <br>
 **Issuing Time:** 2008 <br>
@@ -504,7 +504,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/10/一种基于形态学的路面裂缝图像检测与分析方法.pdf  
 <br>
 
-**Name:** 用图像处理的方法检测公路路面裂缝类病害 <br>
+**Number:** 11 **Name:** 用图像处理的方法检测公路路面裂缝类病害 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Journal of Chang’an University(Natural Science Edition) <br>
 **Issuing Time:** 2004_5 <br>
@@ -517,7 +517,7 @@ particles on surface. <br>
 
 ---
 ##  Updata Time:2019_01_09
-**Name:** 基于灰度分析的路面裂缝图像分类算法研究 <br>
+**Number:** 10 **Name:** 基于灰度分析的路面裂缝图像分类算法研究 <br>
 **Publication category:** 核心 <br>
 **Publication Name:** Journal of Wuhan University of Technology(Transportation Science & Engineering) <br>
 **Issuing Time:** 2018_10 <br>
@@ -527,7 +527,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/9/基于灰度分析的路面裂缝图像分类算法研究.pdf
 <br>
 
-**Name:** 基于计算机视觉技术的结构表面裂缝检测方法研究 <br>
+**Number:** 09 **Name:** 基于计算机视觉技术的结构表面裂缝检测方法研究 <br>
 **Publication category:** EI <br>
 **Publication Name:** Journal of Building Structures <br>
 **Issuing Time:** 2018_9  <br>
@@ -537,7 +537,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/9/基于计算机视觉技术的结构表面裂缝检测方法研究.pdf
 <br>
 
-**Name:** 基于卷积神经网络的路面裂缝检测 <br>
+**Number:** 08 **Name:** 基于卷积神经网络的路面裂缝检测 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Transducer and Microsystem Technologies <br>
 **Issuing Time:** 2017  <br>
@@ -549,7 +549,7 @@ particles on surface. <br>
 
 ---
 ##  Updata Time:2019_01_08
-**Name:** 基于生成式对抗网络的细小桥梁裂缝分割方法 <br>
+**Number:** 07 **Name:** 基于生成式对抗网络的细小桥梁裂缝分割方法 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Laser & Optoelectronics Progress <br>
 **Issuing Time:** 2018_12_25 <br>
@@ -559,7 +559,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/8/生成式对抗网络的细小桥梁裂缝分割方法.pdf
 <br>
 
-**Name:** 基于机器视觉的桩护壁裂缝检测方法 <br>
+**Number:** 06 **Name:** 基于机器视觉的桩护壁裂缝检测方法 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Computer Engineering and Applications <br>
 **Issuing Time:** 2018_11_14 <br>
@@ -569,7 +569,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/8/基于机器视觉的桩护壁裂缝检测方法.pdf
 <br>
 
-**Name:** 一种新的路面裂缝自动检测算法 <br>
+**Number:** 05 **Name:** 一种新的路面裂缝自动检测算法 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** Journal of System Simulation <br>
 **Issuing Time:** 2017_09 <br>
@@ -579,7 +579,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/8/一种新的路面裂缝自动检测算法.pdf
 <br>
 
-**Name:** 图像语义分割问题研究综述 <br>
+**Number:** 04 **Name:** 图像语义分割问题研究综述 <br>
 **Publication category:** none <br>
 **Publication Name:** Software Guide <br>
 **Issuing Time:** 2018_8 <br>
@@ -591,7 +591,7 @@ particles on surface. <br>
 
 ---
 ##  Updata Time:2019_01_07
-**Name:** 复杂背景下基于图像处理的桥梁裂缝检测算法 <br>
+**Number:** 03 **Name:** 复杂背景下基于图像处理的桥梁裂缝检测算法 <br>
 **Publication category:** CSCD <br>
 **Publication Name:** 激光与光电子学进展 Laser & Optoelectronics Progress <br>
 **Issuing Time:** 2018_10_20 <br>
@@ -601,7 +601,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/7/复杂背景下基于图像处理的桥梁裂缝检测算法.pdf
 <br>
 
-**Name:** 基于多特征检验的三维沥青路面裂缝检测 <br>
+**Number:** 02 **Name:** 基于多特征检验的三维沥青路面裂缝检测 <br>
 **Publication category:** EI <br>
 **Publication Name:** Journal of Southwest Jiaotong University <br>
 **Issuing Time:** 2019_01_04 <br>
@@ -611,7 +611,7 @@ particles on surface. <br>
 **Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/7/基于多特征检验的三维沥青路面裂缝检测.pdf
 <br>
 
-**Name:** 基于深度学习的桥梁裂缝检测算法研究 <br>
+**Number:** 01 **Name:** 基于深度学习的桥梁裂缝检测算法研究 <br>
 **Publication category:** none <br>
 **Publication Name:** ACTA AUTOMATICA SINICA自动化学报 <br>
 **Issuing Time:** 2018_10_07 <br>
