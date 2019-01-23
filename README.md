@@ -1,8 +1,8 @@
 # Crack-semantic-segmentation-
 
 ---
-##  Number：60 Updata Time:2019_01_20
-**Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
+##  Updata Time:2019_01_20
+**Number：60 Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
 **Publication category:** SCI <br>
 **Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
 **Issuing Time:** 2017_03 <br>
