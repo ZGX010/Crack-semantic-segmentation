@@ -1,4 +1,47 @@
 # Crack-semantic-segmentation-
+---
+##  Updata Time:2019_01_26
+**Number:** 64 **Name:** Automatic Pavement-Crack Detection and Segmentation Based on Steerable Matched Filtering and an Active Contour Model <br>
+**Publication category:** SCI <br>
+**Publication Name:** Journal of Computing in Civil Engineering <br>
+**Issuing Time:** 2017 <br>
+**Contribution:** 本文提出了一种从二维图像中自动检测和分割路面裂缝的新方法。 <br>
+**Difficulty:** 二维（2D）路面图像在实践中用于裂缝检测和分割。基于2D图像的自动裂缝检测和分割具有挑战性，因为（1）裂缝与周围路面之间的对比度低; （2）复杂的裂缝图案; （3）沿裂缝的强度不均匀性。 <br>
+**Result:** 使用具有各种裂缝的65个路面图像测试所提出的方法。该方法的平均精度为92.6％，召回率为85.1％，F值为88.7％ <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/26/Automatic%20Pavement-Crack%20Detection%20and%20Segmentation%20Based%20on%20Steerable%20Matched%20Filtering%20and%20an%20Active%20Contour%20Model.pdf
+<br>
+
+**Number:** 63 **Name:** Automatic Pavement Crack Detection Based on Structured Prediction with the Convolutional Neural Network <br>
+**Publication category:** <br>
+**Publication Name:** arvix <br>
+**Issuing Time:** 2018 <br>
+**Contribution:** 本文提出了一种基于深度学习的监督方法，该方法具有处理不同路面条件的能力 <br>
+**Difficulty:** 现实世界中复杂的路面状况，自动路面裂缝检测是一项具有挑战性的任务 <br>
+**Result:** 为了解决严重不平衡数据的问题，提出了一种修改正负样本比例的策略。该方法在两个公共数据库上进行测试，并与五种现有方法进行比较。实验结果表明，它优于其他方法 <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/26/Automatic%20Pavement%20Crack%20Detection%20based%20on%20structured%20prediction%20with%20the%20convolutional%20neural%20network.pdf
+<br>
+
+**Number:** 62 **Name:** An Improved Neuron Segmentation Model for Crack Detection –Image Segmentation Model <br>
+**Publication category:** SCI <br>
+**Publication Name:** Cybernetics and Information Technologies <br>
+**Issuing Time:** 2017 <br>
+**Contribution:** 本文提出了一种改进的两阶段神经元分割模型用于裂缝分割。<br>
+**Difficulty:** 建立一个统一而强大的框架来完成从具有杂乱背景，各种形态差异甚至阴影影响的图像中进行准确和完整的裂缝提取仍然是非常具有挑战性的。<br>
+**Result:** 通过对三种分组裂纹样本图像的实验和定量评价，证明了该模型的性能 <br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/26/An%20Improved%20Neuron%20Segmentation%20Model%20for%20Crack%20Detection%20–%20Image%20Segmentation%20Model.pdf
+<br>
+
+**Number:** 61 **Name:** Road Surface Crack Detection: Improved Segmentation with Pixel-based Refinement <br>
+**Publication category:** IEEE <br>
+**Publication Name:** 2017 25th European Signal Processing Conference (EUSIPCO) <br>
+**Issuing Time:** 2017 <br>
+**Contribution:** 本文介绍了一种新的策略，用于识别道路路面勘测过程中捕获的图像上的裂缝，即使这些裂缝出现的形状复杂 <br>
+**Difficulty:** 裂缝是最常见的路面退化之一，需要定期进行道路勘测以监测路面质量。可以自动处理道路路面的图像，通常采用分割算法来识别裂缝。然而，通常会产生一组不同的连接部件，导致几个独立的裂缝段的检测，尽管它们可能属于相同的路面缺陷。对于表现出较长线性发展或存在多个分支的裂缝，经常观察到这种情况。<br>
+**Result:** 使用基于块的基础事实获得的定量结果，基于召回度量（正确分类为裂缝的块数与地面实际裂缝块总数之间的比率）为：88.2％，90.2％和94.3 ImgSetl的％; ImgSet2的 85.3％，91.3％，93.4％，分别与各向异性扩散，小波和形态平滑技术有关。分析两个图像数据集的所有图像的结果，迭代次数范围从2到12，而对于每个图像的整个处理，计算时间范围从11到23秒。<br>
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/26/Road%20Surface%20Crack%20Detection%EF%BC%9Aimproved%20segmentation%20with%20pixel-based%20refinement.pdf
+**Datasets** 1. http://amalia.img.lx.it.pt/CrackIT/——在MATLAB上使用工具箱，且需要发送邮件获取许可
+2. http://www.pavemetrics.com/applications/road-inspection/laser-road-imaging-system——第二个数据集ImgSet2由激光道路成像系统LRIS在一次加拿大道路调查中获得，包括166幅图片
+<br>
 
 ---
 ##  Updata Time:2019_01_20
