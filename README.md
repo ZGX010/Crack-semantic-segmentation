@@ -38,7 +38,7 @@
 **Contribution:** 本文介绍了一种新的策略，用于识别道路路面勘测过程中捕获的图像上的裂缝，即使这些裂缝出现的形状复杂 <br>
 **Difficulty:** 裂缝是最常见的路面退化之一，需要定期进行道路勘测以监测路面质量。可以自动处理道路路面的图像，通常采用分割算法来识别裂缝。然而，通常会产生一组不同的连接部件，导致几个独立的裂缝段的检测，尽管它们可能属于相同的路面缺陷。对于表现出较长线性发展或存在多个分支的裂缝，经常观察到这种情况。<br>
 **Result:** 使用基于块的基础事实获得的定量结果，基于召回度量（正确分类为裂缝的块数与地面实际裂缝块总数之间的比率）为：88.2％，90.2％和94.3 ImgSetl的％; ImgSet2的 85.3％，91.3％，93.4％，分别与各向异性扩散，小波和形态平滑技术有关。分析两个图像数据集的所有图像的结果，迭代次数范围从2到12，而对于每个图像的整个处理，计算时间范围从11到23秒。<br>
-**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/26/Road%20Surface%20Crack%20Detection%EF%BC%9Aimproved%20segmentation%20with%20pixel-based%20refinement.pdf
+**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/26/Road%20Surface%20Crack%20Detection%EF%BC%9Aimproved%20segmentation%20with%20pixel-based%20refinement.pdf <br>
 **Datasets** 1. http://amalia.img.lx.it.pt/CrackIT/——在MATLAB上使用工具箱，且需要发送邮件获取许可
 2. http://www.pavemetrics.com/applications/road-inspection/laser-road-imaging-system——第二个数据集ImgSet2由激光道路成像系统LRIS在一次加拿大道路调查中获得，包括166幅图片
 <br>
