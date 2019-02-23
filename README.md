@@ -45,16 +45,6 @@
 
 ---
 ##  Updata Time:2019_01_20
-**Number:** 60 **Name:** Deep learning-based crack damage detection using convolutional neural networks <br>
-**Publication category:** SCI <br>
-**Publication Name:** Computer-Aided Civil and Infrastructure Engineering <br>
-**Issuing Time:** 2017_03 <br>
-**Contribution:** 我们应用CNN检测路面裂缝和PCA（主成分分析）来对检测到的路面裂缝进行分类 <br>
-**Difficulty:** 本文提出了一种基于视觉的方法，该方法使用深层结构的卷积神经网络（CNN）来检测混凝土裂缝，而无需计算缺陷特征 <br>
-**Result:** 设计的CNN在256×256像素分辨率的40K图像上进行训练，因此记录精度约为98％。经过训练的CNN与滑动窗口技术相结合，可扫描任何大于256×256像素分辨率的图像。所提出的方法的稳健性和适应性在55个5,888×3,584像素分辨率的图像上进行测试，这些图像取自不同的结构，不用于各种条件下的训练和验证过程（例如，强光点，阴影和非常薄的裂缝）。进行比较研究以使用传统的Canny和Sobel边缘检测方法检查所提出的CNN的性能 <br>
-**Link** https://github.com/ZGX010/Crack-semantic-segmentation/blob/master/article/2019.1/20/Deep%20learning-based%20crack%20damage%20detection%20using%20convolutional%20neural%20networks.pdf
-<br>
-
 **Number:** 59 **Name:** How to get pavement distress detection ready for deep learning? A systematic approach <br>
 **Publication category:** IEEE <br>
 **Publication Name:** International Joint Conference on Neural Networks <br>
