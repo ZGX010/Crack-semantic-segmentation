@@ -1,4 +1,4 @@
-# Crack-semantic-segmentation-
+# Crack-semantic-segmentation
 ---
 ##  Updata Time:2019_01_26
 **Number:** 64 **Name:** Automatic Pavement-Crack Detection and Segmentation Based on Steerable Matched Filtering and an Active Contour Model <br>
